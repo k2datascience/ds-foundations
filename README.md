@@ -8,7 +8,6 @@
 [2. Submitting Work](#section-b)
 
 
-
 ---
 
 ## <a name="section-a"></a>1.  Foundations Program
@@ -18,11 +17,10 @@ K2 data science bootcamp. Depending on your background, the material can take an
 
 **All exercises must be completed before the first day of class.**
 
- Week 0
+Week 0
   - [Local Environment Setup](0-environment.md)
 
-
- Week 1
+Week 1
   - [Python Language Review](1-python.md)
   - [Advanced Computer Science Concepts](1-cs-concepts.md)
 
