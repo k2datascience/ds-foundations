@@ -62,5 +62,7 @@ data = response.json()
 
 **Assignments:**
 Complete the [Codecademy Python APIs Tutorial](https://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1)
+
 Complete the web scraping tutorial on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+
 Read [API Integration in Python - Part 1](https://realpython.com/blog/python/api-integration-in-python/)
