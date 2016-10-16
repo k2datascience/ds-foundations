@@ -19,9 +19,7 @@ A SQL join is a Structured Query Language (SQL) instruction to combine data from
 -right join
 -full join
 
-Practice these joins using the [SQL Join guide](http://www.sql-join.com/sql-join-types).
-
-If you're feeling brave, tackle this [advanced tutorial](http://www.sqlcourse2.com/joins.html).
+Practice these joins using the [SQL Join guide](http://www.sql-join.com/sql-join-types). If you're feeling brave, tackle this [advanced tutorial](http://www.sqlcourse2.com/joins.html).
 
 
 
