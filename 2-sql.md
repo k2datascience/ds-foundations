@@ -26,5 +26,6 @@ If you're feeling brave, tackle this [advanced tutorial](http://www.sqlcourse2.c
 
 
 **Assignment:** Complete lessons 1 - 18 of [SQL Bolt](https://sqlbolt.com/)
-**Other Resources:** Read MySQL for Python
+
+**Other Resources:** Read [MySQL for Python](https://www.packtpub.com/big-data-and-business-intelligence/mysql-python)
 ![MySQL for Python]("images/sql_book.jpg")
