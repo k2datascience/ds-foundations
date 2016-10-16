@@ -6,7 +6,7 @@ Application Program Interface (API) is the perfect solution. APIs are used to dy
 ##Requests
 APIs are hosted on a company's web servers. For example, when you type in `www.facebook.com`, your browser sends off a request to a specific Facebook server to grab all the information needed to load `www.facebook.com`. Similarly, API make a request to a web server, however, instead of retrieving the HTML, CSS, and JavaScript for a webpage, an API request will retrieve data like a users information usually in JSON format. Don't worry if you don't know about JSON, we will cover that in a minute.
 
-In Python, we will be using the request library to make a request to a web server to retrieve the information we need.
+In Python, we will be using the [request library](http://docs.python-requests.org/en/master/) to make a request to a web server to retrieve the information we need.
 
 ```
 import requests
@@ -52,10 +52,15 @@ content = response.content
 
 
 ##JSON Format
-We talked a lot about sending a request, but what happens when we receive a response from the server? The most common format to receive a response is in JSON format. JSON is way to encode data structures like lists and dictionaries to strings that ensures that they are easily readable by machines. Python uses the `json` library that allows us to convert lists and dictionaries to JSON, and convert strings to lists and dictionaries.
+We talked a lot about sending a request, but what happens when we receive a response from the server? The most common format to receive a response is in JSON format. [JSON](http://json.org/) is way to encode data structures like lists and dictionaries to strings that ensures that they are easily readable by machines. Python uses the `json` library that allows us to convert lists and dictionaries to JSON, and convert strings to lists and dictionaries.
 
 ```
 import json
 response = requests.get("http://www.example.com/api/endpoint". parameters)
 data = response.json()
 ```
+
+**Assignments:**
+Complete the [Codecademy Python APIs Tutorial](https://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1)
+Complete the web scraping tutorial on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+Read [API Integration in Python - Part 1](https://realpython.com/blog/python/api-integration-in-python/)
