@@ -19,6 +19,7 @@ K2 data science bootcamp. Depending on your background, the material can take an
 
 Week 0
   - [Local Environment Setup](0-environment.md)
+  - [General Tips](0-tips.md)
 
 Week 1
   - [Python Language Review](1-python.md)
