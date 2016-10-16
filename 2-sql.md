@@ -27,4 +27,4 @@ If you're feeling brave, tackle this [advanced tutorial](http://www.sqlcourse2.c
 
 **Assignment:** Complete lessons 1 - 18 of [SQL Bolt](https://sqlbolt.com/)
 **Other Resources:** Read MySQL for Python
-![MySQL for Python]("images/MySQL_for_python.jpg")
+![MySQL for Python]("images/sql_book.jpg")
