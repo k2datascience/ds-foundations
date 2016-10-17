@@ -3,7 +3,6 @@
 Start using the terminal regularly. Start with navigating folders, creating and opening files, then move onto more advanced tasks, like using the VIM editor and cronjobs. Your proficiency with terminal and command line shortcuts will help speed up everything.
 
 [Command Line](https://www.git-tower.com/blog/command-line-cheat-sheet/)
-[VIM Guide](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
 
 ---
 
@@ -38,3 +37,13 @@ You should start getting into the habit of reading programming documentation as 
 [Latest Python 3.x Documentation](https://docs.python.org/3/)
 
 During the bootcamp, you will spend countless hours pouring through the scikit-learn documentation. Occasionally the site goes down and a small part of the internet freaks out. [Keep the PDF handy](resources/scikit-learn-docs.pdf).
+
+---
+
+## Markdown
+
+Markdown is a simple way to add formatting — like headers, bold/italic text, and lists — to plain text. Rather than relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without ever having to remove your fingers from the keyboard, and all in a way that’s much more intuitive than HTML.
+
+This entire Foundations program and most GitHub readme files are created in Markdown. You can easily create a personal blog or portfolio page with Markdown that links to your GitHub profile.
+
+For a run-down of the formatting, check the [reference guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by GitHub.
