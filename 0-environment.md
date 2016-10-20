@@ -2,7 +2,7 @@
 
 Anaconda is the leading open data science platform powered by Python. The open source version of Anaconda is a high performance distribution of Python and includes over 100 of the most popular Python packages for data science.
 
-[Download graphical installer for the Python 3.5 version.](https://www.continuum.io/downloads)
+[Download the graphical installer for Python 3.X](https://www.continuum.io/downloads)
 
 ---
 
@@ -23,7 +23,7 @@ We recommend the Atom Text Editor. [Learn Enough Text Editor](https://www.learne
 
 Sometimes you will need to use a non-graphical text editor. This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
 
-We recommend the VIM. [VIM Guide](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
+We recommend VIM. [VIM Guide](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
 
 ---
 

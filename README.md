@@ -34,6 +34,7 @@ Week 2
 
 Week 3
  - [Statistics & Probability](3-statistics-probability.md)
+ - Research methods, experiment design, multi-armed bandit, AB testing
  - [Linear Algebra](3-linear-algebra.md)
 
 Week 4

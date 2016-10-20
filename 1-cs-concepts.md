@@ -12,6 +12,10 @@ Here is a [basic tutorial for regex](https://regexone.com/).
 
 Since you have already completed the command line tutorial, here is a tutorial that shows what you can do with [bash scripting](http://www.thegeekstuff.com/2010/03/introduction-to-bash-scripting/). For a more advanced guide, [go here](http://tldp.org/LDP/abs/html/). Advanced bash scripting is out of the scope of the course, but it can help save time once you deploy machine learning models into production.
 
+**Draft**
+- [Bash Settings](https://natelandau.com/my-mac-osx-bash_profile/)
+- [Dot Files](https://github.com/mathiasbynens/dotfiles)
+
 ---
 
 ## Memoization
