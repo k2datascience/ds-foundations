@@ -27,3 +27,9 @@ Practice these joins using the [SQL Join guide](http://www.sql-join.com/sql-join
 
 **Other Resources:** Read [MySQL for Python](https://www.packtpub.com/big-data-and-business-intelligence/mysql-python)
 ![MySQL for Python]("images/sql_book.jpg")
+
+
+Compairson - https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+SQLite
+Postgres - http://zetcode.com/db/postgresqlpythontutorial/
+SQL Alchemy - http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html

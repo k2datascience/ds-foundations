@@ -11,3 +11,6 @@ Flask is called a micro framework because it does not require particular tools o
 The [best guide for building web apps](resources/flask_web_dev.pdf) in Flask from scratch.
 
 [Official Flask documentation](http://flask.pocoo.org/docs/0.11/). Feel free to read through it and learn more about Flask.
+
+CSS
+HTML

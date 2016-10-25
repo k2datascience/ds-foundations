@@ -16,6 +16,10 @@ Since you have already completed the command line tutorial, here is a tutorial t
 - [Bash Settings](https://natelandau.com/my-mac-osx-bash_profile/)
 - [Dot Files](https://github.com/mathiasbynens/dotfiles)
 
+https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
+
+Terminal / PATH explanation and Permissions / Sudo
+
 ---
 
 ## Memoization
@@ -43,3 +47,5 @@ Here is a great [cheat sheet](http://bigocheatsheet.com/) for reference.
 For a review of classicial data structures, please see [this website](https://python.swaroopch.com/data_structures.html). These concepts are integral to computer science theory. Build out each data structure in Python from scratch. Feel free to use Wikipedia, Google or other reference websites for help.
 
 Python is a high-level, interpreted programming language. Unlike other older languages, Python comes with many data structures built-in. You have most likely come across many of them, but here is a [page that has a complete overview](https://pythonschool.net/category/data-structures-algorithms.html).
+
+BFS / DFS
