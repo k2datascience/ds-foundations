@@ -1,6 +1,7 @@
 ![K2 logo](images/k2_logo.png)
 
 # [K2](http://www.k2datascience.com/) Data Science Bootcamp Foundations Program
+
 # Table of Contents
 
 [1. Foundations Program](#section-a)
