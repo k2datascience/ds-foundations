@@ -22,12 +22,11 @@ Week 1
   - [Advanced Computer Science Concepts](1-cs-concepts.md)
 
 Week 2
- - [Web Scraping](2-web-scraping.md)
- - [APIs](2-api.md)
- - [Flask and Web Development](2-flask.md)
- - [SQL Databases](2-sql.md)
- - [NoSQL Databases](2-nosql.md)
- - Project: API/NoSQL, Web Scraping/SQL http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
+  - [Flask and Web Development](2-flask.md)
+  - [Web Scraping and SQL Databases](2-scraping-api.md)
+  - [APIs and NoSQL Databases](2-databases.md)
+
+- Project: API/NoSQL, Web Scraping/SQL http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
 
 Week 3
  - [Statistics & Probability](3-statistics-probability.md)

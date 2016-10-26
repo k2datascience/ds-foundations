@@ -25,11 +25,16 @@ Complete the entire book and all the exercises. If you get stuck, review the sol
 
 ### <a name="section-c"></a>3. Projects
 
-1. Blackjack
+Complete these projects in Python. Try to use object-oriented pgoramming to organize both code and data.
+
+1. Blackjack Game
 2. Reverse Polish Notation Calculator
-3.
+3. Pig Latin Translator
+4. Tic-Tac-Toe with a Computer Opponent of Varying Difficulty
 
+All these programs should take user input and be fully accessible via the command line.
 
-http://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
-
-https://www.daniweb.com/programming/software-development/threads/131973/5-crucial-projects-for-beginners#
+Optional
+1. Collatz Conjecture
+2. Sieve of Eratosthenes
+3. Dijkstra's Algorithm

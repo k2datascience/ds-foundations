@@ -24,6 +24,11 @@ Start using the command line regularly. Start with navigating folders, creating 
 
 [Command Line](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
+Since you have already completed the command line tutorial, here is a tutorial that shows what you can do with [bash scripting](http://www.thegeekstuff.com/2010/03/introduction-to-bash-scripting/).
+
+- [Bash Settings](https://natelandau.com/my-mac-osx-bash_profile/)
+- [Dot Files](https://github.com/mathiasbynens/dotfiles)
+
 ---
 
 ### <a name="section-c"></a>3. Keyboard Shortcuts and Commands
