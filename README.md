@@ -24,10 +24,8 @@ Week 1
 
 Week 2
   - [Flask and Web Development](2-flask.md)
-  - [Web Scraping and SQL Databases](2-scraping-api.md)
-  - [APIs and NoSQL Databases](2-databases.md)
-
-- Project: API/NoSQL, Web Scraping/SQL http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
+  - [Web Scraping and SQL Databases](2-scraping-sql.md)
+  - [APIs and NoSQL Databases](2-api-nosql.md)
 
 Week 3
  - [Statistics & Probability](3-statistics-probability.md)

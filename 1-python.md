@@ -2,7 +2,9 @@
 
 ## Table of Contents
 [1. Think Python](#section-a)
+
 [2. Assignments](#section-b)
+
 [3. Projects](#section-c)
 
 ---
@@ -35,6 +37,7 @@ Complete these projects in Python. Try to use object-oriented pgoramming to orga
 All these programs should take user input and be fully accessible via the command line.
 
 Optional
+
 1. Collatz Conjecture
 2. Sieve of Eratosthenes
 3. Dijkstra's Algorithm
