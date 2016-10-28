@@ -2,8 +2,11 @@
 
 ## Table of Contents
 [1. Web Scraping](#section-a)
+
 [2. SQL and Databases](#section-b)
+
 [3. Assignments](#section-c)
+
 [4. Projects](#section-d)
 
 ---
@@ -30,10 +33,10 @@ In this module we will be learning about [SQL (Structured Query Language)](https
 
 A database is a collection of tables, where each table is made up of rows of data and each row has values for the same set of columns across the table. A table is very similar to a DataFrame in Pandas or how a regular CSV file is structured. Both have rows of values with a consistent set of columns.
 
-## Querying
+#### Querying
 SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more english than programming language. You can learn more about querying and SQL commands [here at SQLBolt](https://sqlbolt.com/),
 
-## SQL Databases
+#### Databases
 
 There are many different implementations of Relational Database Management Systems. Read a comparison of the [3 most popular systems here](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).
 
@@ -54,9 +57,6 @@ A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic
 [ORM Examples](http://www.pythoncentral.io/sqlalchemy-orm-examples/)
 [Association Tables](http://www.pythoncentral.io/sqlalchemy-association-tables/)
 
-## SQLite
-A common library used with SQL is [SQLite](https://sqlite.org/). SQLite is a lightweight database that is ideal for learning SQL. [sebastianraschka](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html) is a great resource that provides a thorough guide to SQLite database operations in Python.
-
 ---
 
 ### <a name="section-c"></a>3. Assignments
@@ -71,4 +71,4 @@ A common library used with SQL is [SQLite](https://sqlite.org/). SQLite is a lig
 
 ### <a name="section-d"></a>4. Projects
 
--
+- About 6 years ago I scraped most (all?) of the reviews off of Google Play store (then called Android Market), and used to to analyze what makes people like, dislike, and uninstall apps.

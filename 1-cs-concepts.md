@@ -2,10 +2,15 @@
 
 ## Table of Contents
 [1. Binary Numbers](#section-a)
+
 [2. Regular Expression](#section-b)
+
 [3. Big-O Notation](#section-c)
+
 [4. Data Structures](#section-d)
+
 [5. Algorithms](#section-e)
+
 [6. Assignments](#section-f)
 
 ---
