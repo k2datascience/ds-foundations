@@ -8,6 +8,8 @@
 
 [2. Submitting Work](#section-b)
 
+[3. Questions](#section-c)
+
 ---
 
 ## <a name="section-a"></a>1.  Foundations Program
@@ -40,8 +42,17 @@ Week 4
 
 ---
 
-## <a name="section-b"></a>2.  Submitting Work
+## <a name="section-b"></a>2. Submitting Work
 
-- put repo / forking instructions
+Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
+
+1. Fork the repository on to your account
+2. Pull the repository down to your local computer
+3. Commit changes to the local repository and push them to your online GitHub repository
+4. No need to submit a Pull Request, a TA will check your work routinely and give feedback when necessary
 
 ---
+
+## <a name="section-c"></a>3. Questions
+
+If anything is unclear or you get stuck, please reach out immediately. All this content is curated by data scientists and software engineers, and we have a biased view of which concepts should be learned in which order. We have tried to put ourselves in your shoes, but there is always room for improvement!
