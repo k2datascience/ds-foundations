@@ -1,9 +1,13 @@
 # Web Development
 
 ## Table of Contents
+
 [1. HTML/CSS](#section-a)
+
 [2. Flask](#section-b)
+
 [3. Assignments](#section-c)
+
 [4. Projects](#section-d)
 
 ---

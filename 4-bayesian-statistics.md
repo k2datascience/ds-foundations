@@ -1,4 +1,13 @@
-## Bayesian Statistics
+# Bayesian Statistics
+
+## Table of Contents
+[1. Think Bayes](#section-a)
+
+[2. Assignments](#section-b)
+
+---
+
+### <a name="section-a"></a>1. Think Bayes
 
 [Think Bayes](http://greenteapress.com/wp/think-bayes/) is an introduction to Bayesian statistics using computational methods.
 
@@ -10,4 +19,8 @@ Most books on Bayesian statistics use mathematical notation and present ideas in
 
 The book starts with the introductory concepts and progressing all the way towards advanced contructs. It is available as a [downloadable PDF](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) or you can browse the [online HTML version](http://www.greenteapress.com/thinkbayes/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkBayes).
 
-**Assignment:** Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.
+---
+
+### <a name="section-b"></a>2. Assignments
+
+1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.

@@ -5,6 +5,7 @@
 # Table of Contents
 
 [1. Foundations Program](#section-a)
+
 [2. Submitting Work](#section-b)
 
 ---
@@ -17,6 +18,7 @@ Week 0
   - [Local Setup](0-local-setup.md)
   - [Development Environment](0-environment.md)
   - [General Tips](0-general-tips.md)
+  - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - A blog post from a Twitter employee reflecting on working in Data Science for 2 years. Note the types of data scientists, the expectations depending on the size/type of company, and the 4 general areas that is work responsibilities fall into.
 
 Week 1
   - [Python Language Review](1-python.md)
@@ -29,16 +31,12 @@ Week 2
 
 Week 3
  - [Statistics & Probability](3-statistics-probability.md)
- - Research methods, experiment design, multi-armed bandit, AB testing
  - [Linear Algebra](3-linear-algebra.md)
- - no assignments for stats, but assignments for linear algebra
 
 Week 4
  - [Bayesian Statistics](4-bayesian-statistics.md)
  - [Multivariable Calculus](4-calculus.md)
- - find some assignments
  - [Optimization Theory](4-optimization-theory.md)
-
 
 ---
 

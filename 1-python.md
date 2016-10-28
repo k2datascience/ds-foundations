@@ -21,7 +21,7 @@ The book starts with the introductory concepts and progressing all the way towar
 
 ### <a name="section-b"></a>2. Assignments
 
-Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.
+1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.
 
 ---
 
