@@ -18,7 +18,7 @@ Week 0
   - [Local Setup](0-local-setup.md)
   - [Development Environment](0-environment.md)
   - [General Tips](0-general-tips.md)
-  - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - A blog post from a Twitter employee reflecting on working in Data Science for 2 years. Note the types of data scientists, the expectations depending on the size/type of company, and the 4 general areas that is work responsibilities fall into.
+  - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - Blog post from a data scientist at Twitter reflecting on his first 2 years. Note the types of data scientists, the expectations depending on the size/type of company, and the 4 general areas that his work responsibilities fall into.
 
 Week 1
   - [Python Language Review](1-python.md)

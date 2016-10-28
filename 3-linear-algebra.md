@@ -29,7 +29,7 @@ If you prefer an abridged text summary of the same topics, here is [a set of not
 
 ---
 
-### <a name="section-c"></a>3. Cheat Sheet
+### <a name="section-c"></a>3. Summary
 
 If you have taken Linear Algebra in an academic setting before, here is a [4 page summary version](resources/linear_algebra_4.pdf) that should suffice.
 
