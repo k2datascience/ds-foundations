@@ -34,7 +34,7 @@ In this module we will be learning about [SQL (Structured Query Language)](https
 A database is a collection of tables, where each table is made up of rows of data and each row has values for the same set of columns across the table. A table is very similar to a DataFrame in Pandas or how a regular CSV file is structured. Both have rows of values with a consistent set of columns.
 
 #### Querying
-SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more english than programming language. You can learn more about querying and SQL commands [here at SQLBolt](https://sqlbolt.com/),
+SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more english than programming language. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/). For an thorough review of all topics, Mode Analytics provides a [comprehensive tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
 
 #### Databases
 
@@ -63,7 +63,7 @@ A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic
 
 1. Complete the Web Scraping in Python book and all the exercises.
 
-2. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/) as well as the 2 additional topics.
+2. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/) as well as the Basic, Intermediate, Advanced and Analytics training section [at Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
 
 3. Complete the SQLite and SQLAlchemy tutorials.
 
