@@ -50,7 +50,7 @@ Git is a version control system; think of it as a series of snapshots (commits) 
 
 GitHub, is a web app on which you can publish your Git repositories and collaborate with other people.
 
-[Learn Enough Git](https://www.learnenough.com/git-tutorial){:target="_blank"}
+[Learn Enough Git](https://www.learnenough.com/git-tutorial)
 
 ---
 
@@ -60,7 +60,7 @@ The Jupyter Notebook is a web application that allows you to create and share do
 
 You will be using the Jupyter Notebook almost every day of the bootcamp.
 
-[Here is a quick start guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html). Jupyter will already be installed with Anaconda, so read section 1 and 3.
+[Quick Start Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html). Jupyter will already be installed with Anaconda, so read chapter 1 and 3.
 
 ---
 

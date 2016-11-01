@@ -2,29 +2,34 @@
 
 ## Table of Contents
 [1. Typing Speed](#section-a)
+
 [2. Command Line](#section-b)
+
 [3. Keyboard Shortcuts](#section-c)
+
 [4. Google](#section-d)
+
 [5. Documentation](#section-e)
-[6. Markdown](#section-f) --- optional
+
+[6. Markdown](#section-f)
 
 ---
 
 ### <a name="section-a"></a>1. Typing Speed
 
-You can probably type 60+ words per minute in a Word Processor, but how fast can you type Python code? Try to get at least 40 wpm.
+You can probably type 60+ words per minute in a Word Processor, but how fast can you type Python code? You should be at 40 wpm when you start the Curriculum.
 
-[Level up here](https://typing.io/).
+[Level Up @ Typing.io](https://typing.io/).
 
 ---
 
 ### <a name="section-b"></a>2. Command Line
 
-Start using the command line regularly. Start with navigating folders, creating and opening files, then move onto more advanced tasks, like using the VIM editor and cronjobs. Your proficiency with terminal commands will help speed up everything.
+In the previous section, you learned how to use the command line. Begin using the command line regularly. Start with navigating folders, creating and opening files, then move onto more advanced tasks, like using the VIM editor and cronjobs. Your proficiency with terminal commands will help speed up everything.
 
 [Command Line](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
-Since you have already completed the command line tutorial, here is a tutorial that shows what you can do with [bash scripting](http://www.thegeekstuff.com/2010/03/introduction-to-bash-scripting/).
+If you want to customize your bash profile:
 
 - [Bash Settings](https://natelandau.com/my-mac-osx-bash_profile/)
 - [Dot Files](https://github.com/mathiasbynens/dotfiles)
