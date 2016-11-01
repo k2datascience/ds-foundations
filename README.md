@@ -14,7 +14,7 @@
 
 ## <a name="section-a"></a>1.  Foundations Program
 
-These materials are designed to ensure you are ready to succeed in the our data science bootcamp (or any other). Depending on your background, the material can take anywhere from 30-100+ hours to complete.
+These materials are designed to ensure you are ready to succeed in the our data science bootcamp. Depending on your background, the material can take anywhere from 30-100+ hours to complete.
 
 Week 0
   - [Local Setup](0-local-setup.md)
