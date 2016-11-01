@@ -46,8 +46,9 @@ Week 4
 
 Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
 
-1. Fork the repository on to your account
+1. Fork the repository onto your account
 2. Pull the repository down to your local computer
+3. Complete assignments
 3. Commit changes to the local repository and push them to your online GitHub repository
 4. No need to submit a Pull Request, a TA will check your work routinely and give feedback when necessary
 
@@ -55,4 +56,4 @@ Once you have completed all the content in Week 0, you should understand how to 
 
 ## <a name="section-c"></a>3. Questions
 
-If anything is unclear or you get stuck, please reach out immediately. All this content is curated by data scientists and software engineers, and we have a biased view of which concepts should be learned in which order. We have tried to put ourselves in your shoes, but there is always room for improvement!
+If anything is unclear or you get stuck, [please reach out immediately](<mailto:hello@k2datascience.com>). The program was created by data scientists and machine learning engineers. We have a biased view of which concepts should be learned in which order. We have tried to put ourselves in your shoes, but there is always room for improvement!
