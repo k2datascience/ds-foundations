@@ -21,7 +21,7 @@ The book starts with the introductory concepts and progressing all the way towar
 
 ### <a name="section-b"></a>2. Assignments
 
-1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.
+1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
 
 ---
 
@@ -36,7 +36,7 @@ Complete these projects in Python. Try to use object-oriented pgoramming to orga
 
 All these programs should take user input and be fully accessible via the command line.
 
-Optional
+*Optional*
 
 1. Collatz Conjecture
 2. Sieve of Eratosthenes

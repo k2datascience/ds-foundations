@@ -21,7 +21,7 @@
 
 You can probably type 60+ words per minute in a Word Processor, but how fast can you type Python code? You should be at 40 wpm when you start the Curriculum.
 
-[Level Up @ Typing.io](https://typing.io/).
+[Level Up @ Typing.io](https://typing.io/)
 
 ---
 

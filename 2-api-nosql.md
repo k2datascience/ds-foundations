@@ -30,10 +30,10 @@ response = requests.get('http://www.example.com/api/endpoint')
 #### Types Of Requests
 There are 4 types of requests you will generally use.
 
--GET - A GET request simply retrieves data from an endpoint.
--POST - A POST request takes some data along with it to the server. This data is usually called the payload.
--PUT - A PUT request is similar to a POST request, but is used to update the database with the payload.
--DELETE - A DELETE request is used to remove some data from the database.
+- GET - A GET request simply retrieves data from an endpoint.
+- POST - A POST request takes some data along with it to the server. This data is usually called the payload.
+- PUT - A PUT request is similar to a POST request, but is used to update the database with the payload.
+- DELETE - A DELETE request is used to remove some data from the database.
 
 An **endpoint** is a server route that is used to retrieve specific data. For example, if the endpoint was "/api/auth", we are probably trying to authenticate a login or signup form. A **payload** is data you send along with the request to the server. For example, when you sign in to any account, there is post request made, which takes along your login credentials to the server so that it can request information from the server only for your profile information that your credentials.
 
