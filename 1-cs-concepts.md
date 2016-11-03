@@ -5,21 +5,19 @@
 
 [2. Regular Expression](#section-b)
 
-[3. Big-O Notation](#section-c)
+[3. Big O Notation](#section-c)
 
-[4. Data Structures](#section-d)
+[4. Algorithms Data Structures](#section-d)
 
-[5. Algorithms](#section-e)
-
-[6. Assignments](#section-f)
+[5. Assignments](#section-e)
 
 ---
 
 ### <a name="section-a"></a>1. Bits, bytes and binary numbers
 
-how numbers are represented within the computer, and how to manipulate them.
+A bit (short for binary digit) is the smallest unit of data in a computer. A bit has a single binary value, either 0 or 1. Although computers usually provide instructions that can test and manipulate bits, they generally are designed to store data and execute instructions in bit multiples called bytes. In most computer systems, there are eight bits in a byte. The value of a bit is usually stored as either above or below a designated level of electrical charge in a single capacitor within a memory device.
 
-[Introduction]
+[Introduction](resources/computers-overview.pdf)
 
 [Deeper Background and Conversion Formula](http://www.electronics-tutorials.ws/binary/bin_2.html)
 
@@ -35,7 +33,7 @@ Here is a [basic tutorial for regex](https://regexone.com/).
 
 ---
 
-### <a name="section-c"></a>3. Big-O Notation
+### <a name="section-c"></a>3. Big O Notation
 
 Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
 
@@ -43,23 +41,25 @@ Here is a [simple explanation](https://justin.abrah.ms/computer-science/big-o-no
 
 Here is how you [calculate it](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html) with a few examples to go along.
 
-Here is a great [cheat sheet](http://bigocheatsheet.com/) for reference.
+Here is a [reference sheet](http://bigocheatsheet.com/).
 
 ---
 
 ### <a name="section-d"></a>4. Algorithms and Data Structures
 
-For a review of classicial data structures, please see [this website]( https://pythonschool.net/category/data-structures-algorithms.html ). These concepts are integral to computer science theory. Build out each data structure in Python from scratch. Feel free to use Wikipedia, Google or other reference websites for help.
+[Sorting and Searching Algorithms](https://python-textbok.readthedocs.io/en/latest/Sorting_and_Searching_Algorithms.html) will come up in interviews and understanding how these work help when you design software. Follow along with the material and complete the exercises.
+
+For a review of classicial data structures, please see [the original version of the Think Python book]( http://www.greenteapress.com/thinkpython/thinkCSpy/html/), specifically chapters 17 through 20. These concepts are integral to computer science theory.
 
 Python is a high-level, interpreted programming language. Unlike other older languages, Python comes with many data structures built-in. You have most likely come across many of them, but here is a [page that has a complete overview](https://python.swaroopch.com/data_structures.html).
 
 ---
 
-### <a name="section-e"></a>5. Algorithms
 
-[Sorting and Searching Algorithms](https://python-textbok.readthedocs.io/en/latest/Sorting_and_Searching_Algorithms.html) will come up in interviews and understanding how these work help when you design software. Follow along with the material and complete the exercises.
+### <a name="section-e"></a>5. Assignments
 
----
-
-
-Optional Extended Work http://interactivepython.org/runestone/static/pythonds/index.html
+1. Review all the links and resources on this page.
+2. Make sure you can build the following from scratch in Python.
+  - Sorting Algorithms - Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Bubble Sort
+  - Searching Algorithms - Linear Search and Binary Search
+  - Data Structures - Stack, Queue, Linked List and Binary Tree

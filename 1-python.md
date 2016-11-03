@@ -27,17 +27,10 @@ The book starts with the introductory concepts and progressing all the way towar
 
 ### <a name="section-c"></a>3. Projects
 
-Complete these projects in Python. Try to use object-oriented pgoramming to organize both code and data.
+Create the following in Python. Try different programming paradigms: procedural, functional and object-oriented.
 
-1. Blackjack Game
-2. Reverse Polish Notation Calculator
-3. Pig Latin Translator
-4. Tic-Tac-Toe with a Computer Opponent of Varying Difficulty
-
-All these programs should take user input and be fully accessible via the command line.
-
-*Optional*
-
-1. Collatz Conjecture
+1. Pig Latin Translator
 2. Sieve of Eratosthenes
-3. Dijkstra's Algorithm
+3. Collatz Conjecture
+4. Reverse Polish Notation Calculator
+5. Blackjack Game

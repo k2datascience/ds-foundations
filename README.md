@@ -24,7 +24,7 @@ Week 0
 
 Week 1
   - [Python Language Review](1-python.md)
-  - [Advanced Computer Science Concepts](1-cs-concepts.md)
+  - [Computer Science Concepts](1-cs-concepts.md)
 
 Week 2
   - [Flask and Web Development](2-flask.md)
