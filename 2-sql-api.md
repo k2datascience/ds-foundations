@@ -49,7 +49,7 @@ A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic
 
 Application Program Interface (API) is the perfect solution for gathering data from established technology companies. APIs are used to dynamically query and retrieve data quickly and effectively. Almost all companies that have a wealth of data available provide it to developers via API.
 
-Modern APIs are built on a REST architectural style. Here is a [short overview video].
+Modern APIs are built on a REST architectural style. Here is a [short overview video](https://www.youtube.com/watch?v=7YcW25PHnAA).
 
 #### Requests
 APIs are hosted on a company's web servers. For example, when you type in `www.facebook.com`, your browser sends off a request to a specific Facebook server to grab all the information needed to load `www.facebook.com`. Similarly, API make a request to a web server, however, instead of retrieving the HTML, CSS, and JavaScript for a webpage, an API request will retrieve data like a users information usually in JSON format. Don't worry if you don't know about JSON, we will cover that in a minute.
@@ -116,10 +116,16 @@ data = response.json()
 
 2. Complete the SQLite and SQLAlchemy tutorials.
 
-3. API Assignment
+3. Review all the API learning resources
 
 ---
 
 ### <a name="section-d"></a>4. Projects
+
+Complete 1 of the following API projects or create your own. Store all the data in SQLite.
+
+1. Scrape your alma mater for class schedule information: which classes were being taught, broken down by department and course number; by which professors; at which times on which days.
+2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
+3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price, and description of all the products in the "Bottoms" category.
 
 - http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/

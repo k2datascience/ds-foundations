@@ -11,7 +11,7 @@
 
 ---
 
-### <a name="section-a"></a>a. NoSQL and Databases
+### <a name="section-a"></a>1. NoSQL and Databases
 
 NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Relational databases were not designed to cope with the scale and agility challenges that face modern applications, nor were they built to take advantage of the commodity storage and processing power available today. In this module we will cover some unique features of a NoSQL database.
 
@@ -55,7 +55,7 @@ Web scraping is closely related to web indexing, which indexes information on th
 
 Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp.
 
-[A beginner / intermediate reference book](resources/web_scraping_with_python.pdf). Note: The code is in Python 2.7, so you will have to make some changes
+[A beginner / intermediate reference book](resources/web_scraping_with_python.pdf). **Right-click and Save Link As...** Note: The code is in Python 2.7, so you will have to make some changes to the code.
 
 ---
 
@@ -71,6 +71,6 @@ Please complete the exercises throughout the first book. You will often have to 
 
 Complete 1 of the following scraping projects or create your own. Store all the data in MongoDB.
 
-1. Scrape your alma mater for class schedule information: which classes were being taught, broken down by department and course number; by which professors; at which times on which days.
+1. Scrape your alma mater for class schedule information: which classes were being taught, broken down by department and course number; by which professors; at which times on which days. *(It may be easier to start with your major department first)*
 2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
-3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price, and description of all the products in the "Bottoms" category.
+3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price and description of all the products in the "Bottoms" category.

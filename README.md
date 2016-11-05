@@ -28,7 +28,7 @@ Week 1
 
 Week 2
   - [SQL Databases and APIs](2-sql-api.md)
-  - [NoSQL Databases and Web Scraping](2-scraping-sql.md)
+  - [NoSQL Databases and Web Scraping](2-nosql-scraping.md)
   - [Flask and Web Development](2-flask.md)
 
 Week 3
