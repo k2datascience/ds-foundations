@@ -122,10 +122,9 @@ data = response.json()
 
 ### <a name="section-d"></a>4. Projects
 
-Complete 1 of the following API projects or create your own. Store all the data in SQLite.
+Complete 1 of the following API projects or create your own. Store all the data in SQLite. Investigate the data similar to the Mode SQL Analytics Training tasks and detail your findings.
 
-1. Scrape your alma mater for class schedule information: which classes were being taught, broken down by department and course number; by which professors; at which times on which days.
-2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
-3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price, and description of all the products in the "Bottoms" category.
-
-- http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
+1. Sign up for the [Dark Sky API](https://darksky.net/dev/). Gather the daily weather forecasts for the city you live in during the entire year of 2015. Store the weather observation, the minimum temperature, the maximum temperature, humidity, dew point, wind speed and precipitation accumulation.
+2. Sign up for the [Twitter API](https://dev.twitter.com/rest/public/search). Gather the last 100 tweets from your top 20 favorite actors, athletes, comedians, musicians, or other celebrities and public figures.
+3. Sign up for the [YouTube API](https://developers.google.com/youtube/) or [SoundCloud API](https://developers.soundcloud.com/). Find the 10 most popular songs for your 5 favorite artists. Rank the songs by number of plays, listens or views.
+4. If you want to do a different project, check out this [Reddit post thread](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/), [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/) or [Mashape](https://market.mashape.com/).
