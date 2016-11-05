@@ -27,8 +27,8 @@ Week 1
   - [Computer Science Concepts](1-cs-concepts.md)
 
 Week 2
-  - [APIs and SQL Databases](2-api-nosql.md)
-  - [Web Scraping and NoSQL Databases](2-scraping-sql.md)
+  - [SQL Databases and APIs](2-sql-api.md)
+  - [NoSQL Databases and Web Scraping](2-scraping-sql.md)
   - [Flask and Web Development](2-flask.md)
 
 Week 3
