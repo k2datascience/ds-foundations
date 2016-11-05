@@ -34,14 +34,14 @@ We will focus on SQLite so you can get up-and-running quickly, and the SQLAlchem
 
 A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic topics. While a lot of the information here is derived from the main documentation, the pace is slower and there are also details culled from other sources, including performance tips, comparison to other ORMs, and design philosophies. A very good effort by author Xiaonuo Gantan.
 
-[Index](http://www.pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
-[Introductory Tutorial](http://www.pythoncentral.io/introductory-tutorial-python-sqlalchemy/)
-[How to Install SQLAlchemy](http://www.pythoncentral.io/how-to-install-sqlalchemy/)
-[Comparison to other ORMs](http://www.pythoncentral.io/sqlalchemy-vs-orms/)
-[Overview of Expression Language and ORM Queries](http://www.pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/)
-[Commonly Asked Questions](http://www.pythoncentral.io/sqlalchemy-faqs/)
-[ORM Examples](http://www.pythoncentral.io/sqlalchemy-orm-examples/)
-[Association Tables](http://www.pythoncentral.io/sqlalchemy-association-tables/)
+- [Index](http://www.pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
+- [Introductory Tutorial](http://www.pythoncentral.io/introductory-tutorial-python-sqlalchemy/)
+- [How to Install SQLAlchemy](http://www.pythoncentral.io/how-to-install-sqlalchemy/)
+- [Comparison to other ORMs](http://www.pythoncentral.io/sqlalchemy-vs-orms/)
+- [Overview of Expression Language and ORM Queries](http://www.pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/)
+- [Commonly Asked Questions](http://www.pythoncentral.io/sqlalchemy-faqs/)
+- [ORM Examples](http://www.pythoncentral.io/sqlalchemy-orm-examples/)
+- [Association Tables](http://www.pythoncentral.io/sqlalchemy-association-tables/)
 
 ---
 
