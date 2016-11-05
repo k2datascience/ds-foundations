@@ -1,9 +1,9 @@
 # General Tips
 
 ## Table of Contents
-[1. APIs](#section-a)
+[1. SQL and Databases](#section-a)
 
-[2. NoSQL and Databases](#section-b)
+[2. APIs](#section-b)
 
 [3. Assignments](#section-c)
 
@@ -11,7 +11,41 @@
 
 ---
 
-### <a name="section-a"></a>1. API Introduction
+### <a name="section-a"></a>1. SQL and Databases
+
+Before diving into how to query any database, let define what a database is. A database is a data store designed for storing, querying, and processing data. Databases store the data we want and expose an interface for interacting with that data. Most technology companies use databases to structure the data coming into the system and later query specific subsets of the data to answer questions or update existing data. Database systems also come with database management software with administrative controls, security and access controls, and a language to interface with the database.
+
+In this module we will be learning about [SQL (Structured Query Language)](https://en.wikipedia.org/wiki/SQL), which is designed to query, update and modify data stored in a database. SQL is the most common language for working with databases and is an important tool in any data professional's toolkit. While SQL is a language, it's quite different from languages like Python or R. SQL was built specifically for querying and interacting with databases and won't have much of the functionality you can expect in traditional programming languages. Since SQL is a declarative language, the user focuses on expressing what he or she wants and the computer focuses on figuring out how to perform the computation.
+
+A database is a collection of tables, where each table is made up of rows of data and each row has values for the same set of columns across the table. A table is very similar to a DataFrame in Pandas or how a regular CSV file is structured. Both have rows of values with a consistent set of columns.
+
+#### Querying
+SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more english than programming language. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/). For an thorough review of all topics, Mode Analytics provides a [comprehensive tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
+
+#### Databases
+
+There are many different implementations of Relational Database Management Systems. Read a comparison of the [3 most popular systems here](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).
+
+We will focus on SQLite so you can get up-and-running quickly, and the SQLAlchemy package, which is a way to write SQL commands in a Pythonic way.
+
+[Tutorial of SQLite in Python](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
+
+*Tutorial of SQLAlchemy*
+
+A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic topics. While a lot of the information here is derived from the main documentation, the pace is slower and there are also details culled from other sources, including performance tips, comparison to other ORMs, and design philosophies. A very good effort by author Xiaonuo Gantan.
+
+[Index](http://www.pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
+[Introductory Tutorial](http://www.pythoncentral.io/introductory-tutorial-python-sqlalchemy/)
+[How to Install SQLAlchemy](http://www.pythoncentral.io/how-to-install-sqlalchemy/)
+[Comparison to other ORMs](http://www.pythoncentral.io/sqlalchemy-vs-orms/)
+[Overview of Expression Language and ORM Queries](http://www.pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/)
+[Commonly Asked Questions](http://www.pythoncentral.io/sqlalchemy-faqs/)
+[ORM Examples](http://www.pythoncentral.io/sqlalchemy-orm-examples/)
+[Association Tables](http://www.pythoncentral.io/sqlalchemy-association-tables/)
+
+---
+
+### <a name="section-b"></a>2. API Introduction
 
 Application Program Interface (API) is the perfect solution for gathering data from established technology companies. APIs are used to dynamically query and retrieve data quickly and effectively. Almost all companies that have a wealth of data available provide it to developers via API.
 
@@ -73,49 +107,16 @@ import json
 response = requests.get("http://www.example.com/api/endpoint". parameters)
 data = response.json()
 ```
----
-
-### <a name="section-b"></a>2. NoSQL and Databases
-
-NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Relational databases were not designed to cope with the scale and agility challenges that face modern applications, nor were they built to take advantage of the commodity storage and processing power available today. In this module we will cover some unique features of a NoSQL database.
-
-#### History
-NoSQL was developed in late 2000s to deal with limitations of SQL databases, especially scalability, multi-structured data, geo-distribution and agile development sprints. NoSQL is not a campaign against the SQL language. NoSQL stands for “Not Only SQL.” It provides more possibilities beyond the classic relational approach of data persistence to the developers.
-
-NoSQL refers to a broad class of non-relational databases that differ from classical RDBMS in some significant aspects, most notably because they do not use SQL as their primary query language, instead providing access by means of Application Programming Interfaces (APIs).
-The reason behind such a big switch or in other words the advantages of NoSQL are the following:
-
-- High scalability
-- Distributed Computing
-- Lower cost
-- Schema flexibility
-- Un/semi-structured data
-- No complex relationships
-
-For a more in-depth background, read [this explanation by MongoDB](https://www.mongodb.com/nosql-explained).
-
-#### NoSQL Database Types
-There are 4 main NoSQL database types:
-
-**Document databases** - The model is basically versioned documents that are collections of other key-value collections. The semi-structured documents are stored in formats like JSON. Document databases are essentially the next level of key-value, allowing nested values associated with each key. Document databases support querying more efficiently. An example of a document stored database is MongoDB.
-
-**Key-Value stores** - The main idea here is using a hash table where there is a unique key and a pointer to a particular item of data. The key-value model is the simplest and easiest to implement. But it is inefficient when you are only interested in querying or updating part of a value, among other disadvantages. Examples of key-value databases are Amazon simpleDB and Oracle BDB.
-
-**Wide-Column stores** - These were created to store and process very large amounts of data distributed over many machines. There are still keys but they point to multiple columns. The columns are arranged by column family. Examples of column-oriented databases are Cassandra and HBase.
-
-**Graph stores** - Instead of tables of rows and columns and the rigid structure of SQL, a flexible graph model is used which, again, can scale across multiple machines. NoSQL databases do not provide a high-level declarative query language like SQL to avoid overtime in processing. Rather, querying these databases is data-model specific.
-
-In the curriculum, you will be exposed to Document Databases. Depending on your final project or if you choose to explore data engineering in further detail, you may want to use Key-Value Stores and Wide-Column Stores.
-
-Normally we do not recommend MOOC courses because the coverage of topics is usually introductory or not well done, but [this course on Udacity](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) was developed personally by MongoDB. This goes over different types of data formats, MongoDB and the PyMongo package.
 
 ---
 
 ### <a name="section-c"></a>3. Assignments
 
-1. API Assignment
+1. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/) as well as the Basic, Intermediate, Advanced and Analytics training section [at Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
 
-2. Complete the Data Wrangling with MongoDB course on Udacity
+2. Complete the SQLite and SQLAlchemy tutorials.
+
+3. API Assignment
 
 ---
 
