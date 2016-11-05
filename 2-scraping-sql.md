@@ -17,11 +17,11 @@ Web scraping (web harvesting or web data extraction) is a computer software tech
 
 Web scraping is closely related to web indexing, which indexes information on the web using a bot or web crawler and is a universal technique adopted by most search engines. In contrast, web scraping focuses more on the transformation of unstructured data on the web, typically in HTML format, into structured data that can be stored and analyzed in a central local database or spreadsheet. Web scraping is also related to web automation, which simulates human browsing using computer software. Uses of web scraping include online price comparison, contact scraping, weather data monitoring, website change detection, research, web mashup and web data integration.
 
-Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp. The second book goes more in-depth on building resuable and scalable scrapers. It is optional.
+Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp. The second book goes more in-depth on building resuable and scalable scrapers.
 
-[A beginner / intermediate reference book](web_scraping_with_python.pdf).
+[A beginner / intermediate reference book](resources/web_scraping_with_python.pdf).
 
-[Advanced web scraping with Scrapy](resources/scrapy.pdf).
+**Optional** - [Advanced web scraping with Scrapy](resources/scrapy.pdf).
 
 ---
 
@@ -71,4 +71,8 @@ A series of beginner-focused SQLAlchemy tutorials covering a wide range of basic
 
 ### <a name="section-d"></a>4. Projects
 
-- About 6 years ago I scraped most (all?) of the reviews off of Google Play store (then called Android Market), and used to to analyze what makes people like, dislike, and uninstall apps.
+Complete 1 of the following scraping projects or create your own. Store all the data in SQLite.
+
+1. Scrape your alma mater for class schedule information: which classes were being taught, broken down by department and course number; by which professors; at which times on which days.
+2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
+3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price, and description of all the products in the "Bottoms" category.

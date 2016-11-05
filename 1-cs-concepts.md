@@ -7,7 +7,7 @@
 
 [3. Big O Notation](#section-c)
 
-[4. Algorithms Data Structures](#section-d)
+[4. Algorithms & Data Structures](#section-d)
 
 [5. Assignments](#section-e)
 
@@ -49,9 +49,11 @@ Here is a [reference sheet](http://bigocheatsheet.com/).
 
 [Sorting and Searching Algorithms](https://python-textbok.readthedocs.io/en/latest/Sorting_and_Searching_Algorithms.html) will come up in interviews and understanding how these work help when you design software. Follow along with the material and complete the exercises.
 
-For a review of classicial data structures, please see [the original version of the Think Python book]( http://www.greenteapress.com/thinkpython/thinkCSpy/html/), specifically chapters 17 through 20. These concepts are integral to computer science theory.
+For a review of classicial data structures, please see chapters 17 through 20 of [the original version of the Think Python book]( http://www.greenteapress.com/thinkpython/thinkCSpy/html/) (this code is in Python 2). These concepts are integral to computer science theory.
 
 Python is a high-level, interpreted programming language. Unlike other older languages, Python comes with many data structures built-in. You have most likely come across many of them, but here is a [page that has a complete overview](https://python.swaroopch.com/data_structures.html).
+
+[Additional Python Resource](https://pythonschool.net/category/data-structures-algorithms.html).
 
 ---
 

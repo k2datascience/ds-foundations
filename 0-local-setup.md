@@ -9,6 +9,8 @@
 
 ### <a name="section-a"></a>1.  Case for Mac over Windows
 
+**If you program regularly on a Windows or Linux computer, feel free to skip this section. Some of your fellow students are fairly new to programming and local development environments.**
+
 **Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.  That way, you can spend more time on data science and less time trouble-shooting.**
 
 **The bootcamp is intense.  Spending time wrestling with compatibility stuff you really don't have to has a high opportunity cost.**
@@ -54,7 +56,7 @@ You don't necessarily need to buy a new computer. Here are some alternatives:
 You should have at least 2 screens. At the bare minimum, a laptop and a large, high-resolution monitor. As close as you can get to the above setup will allow you to achieve maximum efficiency as a data science student. It may seem excessive, but when you are learning data science, you will have an IDE open or a Jupyter Notebook, your terminal, our online learning platform, a web page about module documentation or further background about an algorithm. The less time you spend dragging your mouse and switching between windows means the more time you have to learn and write code.
 
 **Ideal Setup**
-- Laptop Screen on a Stand
+- Laptop on a Stand
 - 2 External High-Resolution Monitors
 - A Raised Keyboard
 - A Wired/Wireless Mouse

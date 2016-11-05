@@ -21,7 +21,7 @@ The book starts with the introductory concepts and progressing all the way towar
 
 ### <a name="section-b"></a>2. Assignments
 
-1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
+1. Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
 
 ---
 

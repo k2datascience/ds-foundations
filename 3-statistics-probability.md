@@ -36,4 +36,4 @@ If you have basic skills in Python, you can use them to learn concepts in probab
 
 ### <a name="section-c"></a>3. Assignments
 
-1. Complete the entire book and all the exercises. If you get stuck, review the solution code on the GitHub repository.
+1. Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended.
