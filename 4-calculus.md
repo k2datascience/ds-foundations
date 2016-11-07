@@ -7,8 +7,6 @@
 
 [3. Summary](#section-c)
 
-[4. Assignments](#section-d)
-
 ---
 
 ### <a name="section-a"></a>1. Full Review
@@ -25,16 +23,10 @@ If you prefer a classical academic approach, feel free to watch this [UCBerkeley
 
 ### <a name="section-b"></a>2. Refresher
 
-If you prefer an abridged text summary of the same topics, here is [a set of notes](resources/mvc.pdf) by Barbara Niethammer and Andrew Dancer at Oxford University. There are not many visualizations and the last section dives into manifolds. Manifolds are out of the scope of our curriculum, but take a stab at learning more about it. Serious data scientists are able to alter off-the-shelf algorithms with advanced mathematics and create truly amazing machine learning systems. 
+If you prefer an abridged text summary of the same topics, here is [a set of notes](resources/mvc.pdf) by Barbara Niethammer and Andrew Dancer at Oxford University. There are not many visualizations and the last section dives into manifolds. Manifolds are out of the scope of our curriculum, but take a stab at learning more about it. Serious data scientists are able to alter off-the-shelf algorithms with advanced mathematics and create truly amazing machine learning systems.
 
 ---
 
 ### <a name="section-c"></a>3. Summary
 
-If you have taken Multivariable Calculus in an academic setting before, here is a [1 page summary version](resources/calculus-1.pdf) that should suffice.
-
----
-
-### <a name="section-d"></a>4. Assignments
-
-Go through the [problem set here](resources/la-problems.pdf).
+If you have taken Multivariable Calculus in an academic setting before, here is a [1 page summary version](resources/calculus-1.pdf).

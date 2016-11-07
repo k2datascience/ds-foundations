@@ -1,5 +1,7 @@
 # Python Programming
 
+A complete review of the Python language from introductory to advanced topics.
+
 ## Table of Contents
 [1. Think Python](#section-a)
 

@@ -1,5 +1,7 @@
 # Development Environment
 
+This page starts with installing Python, and then dives into all the tools and programs that you will be using daily.
+
 ## Table of Contents
 [1. Python](#section-a)
 

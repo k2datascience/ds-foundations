@@ -1,5 +1,7 @@
 # Assorted Computer Science Topics
 
+This page contains readings, tutorials and assignments about classical computer science topics. These will help your understanding of how computers and applications work. As a data scientist, you need to have a strong CS foundation.
+
 ## Table of Contents
 [1. Binary Numbers](#section-a)
 

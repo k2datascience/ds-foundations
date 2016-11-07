@@ -57,7 +57,7 @@ Please complete the exercises throughout the first book. You will often have to 
 
 [A beginner / intermediate reference book](resources/web_scraping_with_python.pdf). (*Right-click and Save Link As...*)
 
-Note: The code is in Python 2.7, so you will have to make some changes to the code.
+Note: The code is in Python 2.7, so you will have to update certain syntax to Python 3.5.
 
 ---
 

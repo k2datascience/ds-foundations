@@ -1,5 +1,7 @@
 # Local Setup Instructions
 
+We explain which operating system to pick and why. Also, how to setup your desk for maximum data science productivity.
+
 ## Table of Contents
 [1. Case for Mac over Windows](#section-a)
 

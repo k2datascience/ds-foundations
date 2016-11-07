@@ -14,7 +14,7 @@
 
 ## <a name="section-a"></a>1.  Foundations Program
 
-These materials are designed to ensure you are ready to succeed in the our data science bootcamp. Depending on your background, the material can take anywhere from 30-100+ hours to complete.
+The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
 
 Week 0
   - [Local Setup](0-local-setup.md)
@@ -29,16 +29,16 @@ Week 1
 Week 2
   - [SQL Databases and APIs](2-sql-api.md)
   - [NoSQL Databases and Web Scraping](2-nosql-scraping.md)
-  - [Flask and Web Development](2-flask.md)
+  - (Optional) [Flask and Web Development](2-flask.md)
 
 Week 3
  - [Statistics & Probability](3-statistics-probability.md)
- - [Linear Algebra](3-linear-algebra.md)
+ - [Bayesian Statistics](4-bayesian-statistics.md)
 
 Week 4
- - [Bayesian Statistics](4-bayesian-statistics.md)
+ - [Linear Algebra](3-linear-algebra.md)
  - [Multivariable Calculus](4-calculus.md)
- - [Optimization Theory](4-optimization-theory.md)
+ - (Optional) [Optimization Theory](4-optimization-theory.md)
 
 ---
 
@@ -46,10 +46,9 @@ Week 4
 
 Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
 
-1. Fork the repository onto your account
-2. Pull the repository down to your local computer
-3. Complete assignments
-3. Commit changes to the local repository and push them to your online GitHub repository
+1. Create a local Git repository called "k2-foundations"
+3. Complete assignments and projects
+3. Commit changes to the local repository and push them to an online GitHub repository
 4. No need to submit a Pull Request, a TA will check your work routinely and give feedback when necessary
 
 ---

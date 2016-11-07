@@ -108,6 +108,10 @@ response = requests.get("http://www.example.com/api/endpoint". parameters)
 data = response.json()
 ```
 
+#### API Tutorial
+
+Follow along with this [tutorial from HackerEarth](http://engineering.hackerearth.com/2014/08/21/python-requests-module/).
+
 ---
 
 ### <a name="section-c"></a>3. Assignments
@@ -116,7 +120,7 @@ data = response.json()
 
 2. Complete the SQLite and SQLAlchemy tutorials.
 
-3. Review all the API learning resources
+3. Review all the API learning resources and complete the tutorial.
 
 ---
 
@@ -127,4 +131,4 @@ Complete 1 of the following API projects or create your own. Store all the data 
 1. Sign up for the [Dark Sky API](https://darksky.net/dev/). Gather the daily weather forecasts for the city you live in during the entire year of 2015. Store the weather observation, the minimum temperature, the maximum temperature, humidity, dew point, wind speed and precipitation accumulation.
 2. Sign up for the [Twitter API](https://dev.twitter.com/rest/public/search). Gather the last 100 tweets from your top 20 favorite actors, athletes, comedians, musicians, or other celebrities and public figures.
 3. Sign up for the [YouTube API](https://developers.google.com/youtube/) or [SoundCloud API](https://developers.soundcloud.com/). Find the 10 most popular songs for your 5 favorite artists. Rank the songs by number of plays, listens or views.
-4. If you want to do a different project, check out this [Reddit post thread](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/), [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/) or [Mashape](https://market.mashape.com/).
+4. If you want to design your own project, check out the following links for interesting APIs: [Reddit thread](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/), [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/) or [Mashape](https://market.mashape.com/).

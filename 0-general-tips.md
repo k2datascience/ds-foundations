@@ -1,5 +1,7 @@
 # General Tips
 
+Here are some general tips about increasing your productivity as a data scientist.
+
 ## Table of Contents
 [1. Typing Speed](#section-a)
 
