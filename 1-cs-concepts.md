@@ -64,6 +64,6 @@ Python is a high-level, interpreted programming language. Unlike other older lan
 
 1. Review all the links and resources on this page.
 2. Make sure you can build the following from scratch in Python.
-  - Sorting Algorithms - Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Bubble Sort
+  - Sorting Algorithms - Selection Sort, Merge Sort and Bubble Sort
   - Searching Algorithms - Linear Search and Binary Search
   - Data Structures - Stack, Queue, Linked List and Binary Tree

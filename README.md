@@ -46,7 +46,7 @@ Week 4
 
 Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
 
-1. Create a local Git repository called "k2-foundations"
+1. Create a local Git repository called "foundations"
 3. Complete assignments and projects
 3. Commit changes to the local repository and push them to an online GitHub repository
 4. No need to submit a Pull Request, a TA will check your work routinely and give feedback when necessary
