@@ -1,5 +1,7 @@
 # General Tips
 
+We explore SQL queries and relational databases. Then, we move on to APIs and tackle an integrated project.
+
 ## Table of Contents
 [1. SQL and Databases](#section-a)
 
@@ -20,7 +22,7 @@ In this module we will be learning about [SQL (Structured Query Language)](https
 A database is a collection of tables, where each table is made up of rows of data and each row has values for the same set of columns across the table. A table is very similar to a DataFrame in Pandas or how a regular CSV file is structured. Both have rows of values with a consistent set of columns.
 
 #### Querying
-SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more english than programming language. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/). For an thorough review of all topics, Mode Analytics provides a [comprehensive tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
+SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. It's easy to read syntax makes it more English than programming language. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/). For a thorough review of all topics, Mode Analytics provides a [comprehensive tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
 
 #### Databases
 
@@ -52,7 +54,7 @@ Application Program Interface (API) is the perfect solution for gathering data f
 Modern APIs are built on a REST architectural style. Here is a [short overview video](https://www.youtube.com/watch?v=7YcW25PHnAA).
 
 #### Requests
-APIs are hosted on a company's web servers. For example, when you type in `www.facebook.com`, your browser sends off a request to a specific Facebook server to grab all the information needed to load `www.facebook.com`. Similarly, API make a request to a web server, however, instead of retrieving the HTML, CSS, and JavaScript for a webpage, an API request will retrieve data like a users information usually in JSON format. Don't worry if you don't know about JSON, we will cover that in a minute.
+APIs are hosted on a company's web servers. For example, when you type in `www.facebook.com`, your browser sends off a request to a specific Facebook server to grab all the information needed to load `www.facebook.com`. Similarly, APIs make a request to a web server, however, instead of retrieving the HTML, CSS, and JavaScript for a webpage, an API request will retrieve data like a users information usually in JSON format. Don't worry if you don't know about JSON, we will cover that in a minute.
 
 In Python, we will be using the [request library](http://docs.python-requests.org/en/master/) to make a request to a web server to retrieve the information we need.
 
@@ -90,11 +92,11 @@ status_code = response.status_code
 
 
 #### Query Parameters
-Often times when working with APIs, you will see in the documentation that you need to pass in a parameter. In programming, we all this a query parameter. A query parameter is an argument passed in as an object that we pass along with our request. In an url you can notice a query parameter by a question mark like this `http://example.com/over/there?name=ferret`. In this example, you can see the query parameter that was passed along was {name:ferret}.
+Often times when working with APIs, you will see in the documentation that you need to pass in a parameter. In programming, this is called a query parameter. A query parameter is an argument passed in as an object that we pass along with our request. In a URL you can notice a query parameter by a question mark like this `http://example.com/over/there?name=ferret`. In this example, you can see the query parameter that was passed along was {name:ferret}.
 
 ```
 parameters = {"name": "ferret"}
-response = requests.get("http://www.example.com/api/endpoint". parameters)
+response = requests.get("http://www.example.com/api/endpoint", parameters)
 content = response.content
 ```
 
@@ -104,7 +106,7 @@ We talked a lot about sending a request, but what happens when we receive a resp
 
 ```
 import json
-response = requests.get("http://www.example.com/api/endpoint". parameters)
+response = requests.get("http://www.example.com/api/endpoint", parameters)
 data = response.json()
 ```
 

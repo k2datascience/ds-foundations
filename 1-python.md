@@ -17,7 +17,7 @@ A complete review of the Python language from introductory to advanced topics.
 
 ![Think Python book cover](images/think_python.jpg)
 
-The book starts with the introductory concepts and progressing all the way towards advanced contructs. It is available as a [downloadable PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf) or you can browse the [online HTML version](http://greenteapress.com/thinkpython2/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkPython2/tree/master/code).
+It is available as a [downloadable PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf) or you can browse the [online HTML version](http://greenteapress.com/thinkpython2/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkPython2/tree/master/code).
 
 ---
 

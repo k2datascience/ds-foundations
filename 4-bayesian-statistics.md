@@ -17,7 +17,7 @@ Most books on Bayesian statistics use mathematical notation and present ideas in
 
 ![Think Bayes book cover](images/think_bayes.jpg)
 
-The book starts with the introductory concepts and progressing all the way towards advanced contructs. It is available as a [downloadable PDF](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) or you can browse the [online HTML version](http://www.greenteapress.com/thinkbayes/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkBayes).
+It is available as a [downloadable PDF](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) or you can browse the [online HTML version](http://www.greenteapress.com/thinkbayes/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkBayes).
 
 ---
 
