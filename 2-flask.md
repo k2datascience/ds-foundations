@@ -1,6 +1,6 @@
 # Web Development
 
-You might be wondering why were are learning about building websites and apps? The reason is that you may want to create an interactive app or present your final projects so you can share with anyone that is not a data scientist. A beginner level understanding will enable you to do this.
+You might be wondering why we are learning about building websites and apps? The reason is that you may want to create an interactive app or present your final projects so you can share with anyone that is not a data scientist. A beginner level understanding will enable you to do this.
 
 ## Table of Contents
 
