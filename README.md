@@ -23,8 +23,9 @@ Week 0
   - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - Blog post from a data scientist at Twitter reflecting on his first 2 years.
 
 Week 1
+  - [Introduction to Computer Science](1-intro-cs.md)
   - [Python Language Review](1-python.md)
-  - [Computer Science Concepts](1-cs-concepts.md)
+  - [Advanced CS Concepts](1-cs-concepts.md)
 
 Week 2
   - [SQL Databases and APIs](2-sql-api.md)
@@ -49,7 +50,7 @@ Once you have completed all the content in Week 0, you should understand how to 
 1. Create a local Git repository called "foundations"
 3. Complete assignments and projects
 3. Commit changes to the local repository and push them to an online GitHub repository
-4. No need to submit a Pull Request, a TA will check your work routinely and give feedback when necessary
+4. Send us your GitHub username, a TA will check your work routinely and give feedback when necessary
 
 ---
 

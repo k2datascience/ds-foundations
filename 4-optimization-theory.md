@@ -7,6 +7,8 @@
 
 [3. Advanced](#section-c)
 
+[4. Assignments](#section-d)
+
 ---
 
 ### <a name="section-a"></a>1. Introduction
@@ -19,10 +21,25 @@ Here is an [introduction to the main concepts](resources/optimization_intro.pdf)
 
 ### <a name="section-b"></a>2. Intermediate
 
-For a more intermediate coverage of topics necessary for the intellecutally curious, please see [this presentation](resources/optimization_short.pdf). Please review the slides, but if it is over your head...don't fret.
+For a more intermediate coverage of topics, browse [this presentation](resources/optimization_short.pdf). Please review the slides, but if it is over your head...don't fret.
 
 ---
 
 ### <a name="section-c"></a>3. Advanced
 
+#### Option 1
+
+Stanford Online Lagunita - [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about).
+
+The course is free and self-paced.
+
+#### Option 2
+
 For a complete coverage of all convex optimization concepts, here is a [great resource](resources/optimization_long.pdf). The level of mathematics covered here is beyond the scope of the bootcamp. If you have a strong background in mathematics, please review this text or the complete book by Stephen Boyd referenced above as it will definitely help take your optimization skills to the next level.
+
+---
+
+### <a name="section-d"></a>4. Assignments
+
+1. Read through the introduction PDF.
+2. Depending on your mathematics background, go as far as you can.

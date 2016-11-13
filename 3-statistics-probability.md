@@ -1,7 +1,7 @@
 # Statistics & Probability
 
 ## Table of Contents
-[1. Think Stats](#section-a)
+[1. Course Options](#section-a)
 
 [2. Additional Topics](#section-b)
 
@@ -9,15 +9,27 @@
 
 ---
 
-### <a name="section-a"></a>1. Think Stats
+### <a name="section-a"></a>1. Course Options
 
-[Think Stats](http://greenteapress.com/thinkstats2/index.html) is an introduction to Probability and Statistics for Python programmers.
+You need to have a strong understanding of college-level statistics and probability. *If you have a preferred resource or textbook, feel free to use that.*
 
-Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
+#### Option 1
 
-![Think Stats book cover](images/think_stats.jpg)
+Stanford Online Lagunita - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about).
 
-If you have basic skills in Python, you can use them to learn concepts in probability and statistics. Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding. It is available as a [downloadable PDF](http://greenteapress.com/thinkstats2/thinkstats2.pdf) or you can browse the [online HTML version](http://greenteapress.com/thinkstats2/html/index.html). Several example programs and solutions to some exercises are located in [this GitHub repository](https://github.com/AllenDowney/ThinkStats2).
+The course is free and self-paced.
+
+#### Option 2
+
+Carnegie Mellon Open Learning Initiative - [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/).
+
+The course is free and self-paced.
+
+#### Option 3
+
+Khan Academy - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability).
+
+The material is free and self-paced.
 
 ---
 
@@ -36,4 +48,5 @@ If you have basic skills in Python, you can use them to learn concepts in probab
 
 ### <a name="section-c"></a>3. Assignments
 
-1. Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended.
+1. Complete 1 of the course options.
+2. Read through the additional topics.

@@ -7,6 +7,8 @@
 
 [3. Summary](#section-c)
 
+[4. Assignments](#section-d)
+
 ---
 
 ### <a name="section-a"></a>1. Full Review
@@ -28,3 +30,9 @@ If you prefer an abridged text summary of the same topics, here is [a set of not
 ### <a name="section-c"></a>3. Summary
 
 If you have taken Linear Algebra in an academic setting before, here is a [4 page summary version](resources/linear_algebra_4.pdf) or watch this [25 minute video](https://www.youtube.com/watch?v=ZumgfOei0Ak).
+
+---
+
+### <a name="section-d"></a>4. Assignments
+
+1. Make sure you have reviewed all the concepts.

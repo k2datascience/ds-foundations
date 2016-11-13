@@ -75,4 +75,4 @@ You will be using Markdown daily to document your assignments and projects. For 
 
 ### <a name="section-g"></a>7. Assignments
 
-1. Review all the links and resources on this page
+1. Review all the links and resources on this page.

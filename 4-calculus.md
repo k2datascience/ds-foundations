@@ -7,6 +7,8 @@
 
 [3. Summary](#section-c)
 
+[4. Assignments](#section-d)
+
 ---
 
 ### <a name="section-a"></a>1. Full Review
@@ -30,3 +32,9 @@ If you want an abridged text summary of the same topics, here is [a set of notes
 ### <a name="section-c"></a>3. Summary
 
 If you have taken Multivariable Calculus in an academic setting before, here is a [1 page summary version](resources/calculus-1.pdf).
+
+---
+
+### <a name="section-d"></a>4. Assignments
+
+1. Make sure you have reviewed all the concepts.
