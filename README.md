@@ -16,27 +16,27 @@
 
 The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
 
-Week 0
+**Getting Started**
   - [Local Setup](0-local-setup.md)
   - [Development Environment](0-environment.md)
   - [General Tips](0-general-tips.md)
   - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - Blog post from a data scientist at Twitter reflecting on his first 2 years.
 
-Week 1
+**Phase 1**
   - [Introduction to Computer Science](1-intro-cs.md)
   - [Python Language Review](1-python.md)
-  - [Advanced CS Concepts](1-cs-concepts.md)
+  - (Optional) [Advanced CS Concepts](1-cs-concepts.md)
 
-Week 2
+**Phase 2**
   - [SQL Databases and APIs](2-sql-api.md)
   - [NoSQL Databases and Web Scraping](2-nosql-scraping.md)
   - (Optional) [Flask and Web Development](2-flask.md)
 
-Week 3
+**Phase 3**
  - [Statistics & Probability](3-statistics-probability.md)
- - [Bayesian Statistics](4-bayesian-statistics.md)
+ - (Optional) [Bayesian Statistics](4-bayesian-statistics.md)
 
-Week 4
+**Phase 4**
  - [Linear Algebra](3-linear-algebra.md)
  - [Multivariable Calculus](4-calculus.md)
  - (Optional) [Optimization Theory](4-optimization-theory.md)
@@ -50,7 +50,7 @@ Once you have completed all the content in Week 0, you should understand how to 
 1. Create a local Git repository called "foundations"
 2. Complete assignments and projects
 3. Commit changes to the local repository and push them to an online GitHub repository
-4. Send us your GitHub username, a TA will check your work routinely and give feedback when necessary
+4. A TA will check your work weekly and give feedback when necessary
 
 ---
 
