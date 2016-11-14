@@ -7,8 +7,6 @@ Theoretical computer science is the foundation of modern software engineering.
 
 [2. Assignments](#section-b)
 
-[3. Projects](#section-c)
-
 ---
 
 ### <a name="section-a"></a>1. Course Options
@@ -23,7 +21,7 @@ The course is free and self-paced.
 
 Harvard Online Learning - [CS50: Introduction to Computer Science](http://online-learning.harvard.edu/course/cs50-introduction-computer-science).
 
-The course is free and self-paced. You can just watch the videos and skip the problem sets.
+The course is free and self-paced. You can watch the videos and skip the problem sets.
 
 ---
 
