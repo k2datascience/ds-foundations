@@ -16,20 +16,21 @@ You need to have a strong understanding of college-level statistics and probabil
 #### Option 1
 
 Stanford Online Lagunita - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about).
-
-The course is free and self-paced.
-
-#### Option 2
-
 Carnegie Mellon Open Learning Initiative - [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/).
 
-The course is free and self-paced.
+These courses have the same content, but are organized and presented differently. Both are free and self-paced.
 
-#### Option 3
+#### Option 2
 
 Khan Academy - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability).
 
 The material is free and self-paced.
+
+#### Option 3
+
+OpenIntro - [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os).
+
+The textbook is free and self-paced. You can also download over 100 data sets that were used in the textbook.
 
 ---
 
