@@ -16,6 +16,7 @@ You need to have a strong understanding of college-level statistics and probabil
 #### Option 1
 
 Stanford Online Lagunita - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about).
+
 Carnegie Mellon Open Learning Initiative - [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/).
 
 These courses have the same content, but are organized and presented differently. Both are free and self-paced.
