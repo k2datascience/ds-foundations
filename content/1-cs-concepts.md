@@ -19,7 +19,7 @@ This page contains readings, tutorials and assignments about classical computer 
 
 A bit (short for binary digit) is the smallest unit of data in a computer. A bit has a single binary value, either 0 or 1. Although computers usually provide instructions that can test and manipulate bits, they generally are designed to store data and execute instructions in bit multiples called bytes. In most computer systems, there are eight bits in a byte. The value of a bit is usually stored as either above or below a designated level of electrical charge in a single capacitor within a memory device.
 
-[Introduction](resources/computers-overview.pdf)
+[Introduction](../resources/computers-overview.pdf)
 
 [Deeper Background and Conversion Formula](http://www.electronics-tutorials.ws/binary/bin_2.html)
 

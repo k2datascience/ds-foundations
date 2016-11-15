@@ -59,7 +59,7 @@ You should start getting into the habit of reading programming documentation as 
 
 [Latest Python 3.x Documentation](https://docs.python.org/3/)
 
-During the bootcamp, you will spend countless hours pouring through the scikit-learn documentation. Occasionally the site goes down and a small part of the internet freaks out. [Keep the PDF handy](resources/scikit-learn-docs.pdf).
+During the bootcamp, you will spend countless hours pouring through the scikit-learn documentation. Occasionally the site goes down and a small part of the internet freaks out. [Keep the PDF handy](../resources/scikit-learn-docs.pdf).
 
 ---
 
