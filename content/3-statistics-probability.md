@@ -30,7 +30,7 @@ The material is free and self-paced.
 
 OpenIntro - [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os).
 
-The textbook is free and self-paced. You can also download over 100 data sets that were used in the textbook.
+The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
 
 ---
 
