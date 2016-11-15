@@ -25,15 +25,15 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 
 #### Option 2
 
-Carnegie Mellon Open Learning Initiative - [Principles of Computing with Python](https://oli.cmu.edu/courses/free-open/computing-course-details/).
-
-The course is free and self-paced. This course does not cover object-oriented programming, so be sure to [review it](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
-
-#### Option 3
-
 Zed A. Shaw - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/).
 
 A step-by-step tutorial for total beginners to learn Pyhton. The online version is free and the tutorial is self-paced.
+
+#### Option 3
+
+Carnegie Mellon Open Learning Initiative - [Principles of Computing with Python](https://oli.cmu.edu/courses/free-open/computing-course-details/).
+
+The course is free and self-paced. This course does not cover object-oriented programming, so be sure to [review it](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
 
 ---
 
