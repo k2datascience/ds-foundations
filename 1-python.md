@@ -31,7 +31,7 @@ The course is free and self-paced. This course does not cover object-oriented pr
 
 #### Option 3
 
-Zed A. Shaw - [Learn Python the Hard Way](https://learncodethehardway.org/python/).
+Zed A. Shaw - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/).
 
 A step-by-step tutorial for total beginners to learn Pyhton. The online version is free and the tutorial is self-paced.
 

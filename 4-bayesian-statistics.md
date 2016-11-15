@@ -1,13 +1,23 @@
 # Bayesian Statistics
 
 ## Table of Contents
-[1. Think Bayes](#section-a)
+[1. Course Options](#section-a)
 
 [2. Assignments](#section-b)
 
 ---
 
-### <a name="section-a"></a>1. Think Bayes
+### <a name="section-a"></a>1. Course Options
+
+#### Option 1 - Shorter
+
+[Bayes' Rule: A Tutorial Introduction to Bayesian Analysis](resources/bayes_rule.pdf)
+
+Discovered by an 18th century mathematician and preacher, Bayes' rule is a cornerstone of modern probability theory. In this richly illustrated book, a range of accessible examples is used to show how Bayes' rule is actually a natural consequence of common sense reasoning. Bayes' rule is then derived using intuitive graphical representations of probability, and Bayesian analysis is applied to parameter estimation. As an aid to understanding, online computer code (in MatLab, Python and R) reproduces key numerical results and diagrams. The tutorial style of writing, combined with a comprehensive glossary, makes this an ideal primer for novices who wish to become familiar with the basic principles of Bayesian analysis.
+
+*We converted an ePub version to PDF, so it does not have the greatest formatting.*
+
+#### Option 2 - Longer
 
 [Think Bayes](http://greenteapress.com/wp/think-bayes/) is an introduction to Bayesian statistics using computational methods.
 

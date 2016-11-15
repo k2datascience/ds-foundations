@@ -15,7 +15,15 @@
 
 Several data mining and machine learning algorithms rely heavily on Linear Algebra concepts. We want all students to be comfortable with this subject. *If you have a preferred resource or textbook, feel free to use that.*
 
+#### Option 1
+
 We found the coverage of Linear Algebra at Khan Academy to be sufficient enough for our curriculum. [You can find it here](https://www.khanacademy.org/math/linear-algebra). Sal does a good job explaining the "how".
+
+#### Option 2
+
+Here's an online version of [A First Course in Linear Algebra](http://linear.ups.edu/). The textbook is regularly updated and there are a plethora of example problems.
+
+#### Option 3
 
 If you want to learn the "why", go through [Professor Gilbert Strang's course](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) on Linear Algebra. Note this will take over 30 hours and is not required.
 
