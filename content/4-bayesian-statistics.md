@@ -11,11 +11,9 @@
 
 #### Option 1 - Shorter
 
-[Bayes' Rule: A Tutorial Introduction to Bayesian Analysis](../resources/bayesrule.pdf)
+Bayes' Rule: A Tutorial Introduction to Bayesian Analysis ([ePub](../resources/bayesrule.epub) or [PDF](../resources/bayesrule.pdf))
 
 Discovered by an 18th century mathematician and preacher, Bayes' rule is a cornerstone of modern probability theory. In this richly illustrated book, a range of accessible examples is used to show how Bayes' rule is actually a natural consequence of common sense reasoning. Bayes' rule is then derived using intuitive graphical representations of probability, and Bayesian analysis is applied to parameter estimation. As an aid to understanding, online computer code (in MatLab, Python and R) reproduces key numerical results and diagrams. The tutorial style of writing, combined with a comprehensive glossary, makes this an ideal primer for novices who wish to become familiar with the basic principles of Bayesian analysis.
-
-*We converted an ePub version to PDF, so it does not have the greatest formatting.*
 
 #### Option 2 - Longer
 
@@ -33,4 +31,4 @@ It is available as a [downloadable PDF](http://www.greenteapress.com/thinkbayes/
 
 ### <a name="section-b"></a>2. Assignments
 
-1. Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended.
+1. Complete at least 1 of the books. The first one takes a few hours. The second one can take 5-10 hours depending on your background.
