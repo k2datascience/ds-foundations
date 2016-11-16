@@ -7,6 +7,8 @@ We explain which operating system to pick and why. Also, how to setup your desk 
 
 [2. Desk Setup](#section-b)
 
+[3. Internet](#section-c)
+
 ---
 
 ### <a name="section-a"></a>1.  Case for Mac over Windows
@@ -42,11 +44,19 @@ You should have at least 2 screens. If you have a desktop computer, you can easi
 - A Raised Keyboard
 - A Wired/Wireless Mouse
 - A Long Sturdy Desk
+- A Proper Computer Chair
 - A Paper Notepad to jot down thoughts, ideas and other notes
-
 
 *Research on Productivity:*
 
 [Monitor Size and Aspect Ratio Productivity Research](http://www.itjungle.com/tfh/utahdisplaystudy.pdf)
 
 [Laptops and Business Use - A Study on Mice and Keyboards](https://www.bakkerelkhuizen.com/uploads/wysiwyg/BakkerElkhuizen_whitepaper_work%20comfortably%20with%20laptop_%20USv1.pdf)
+
+----
+
+## <a name="section-c"></a>3. Internet
+
+You will be streaming video lectures and attending video calls and conferences regularly. Please make sure you have a reliable cable or fiber optic internet provider. 56K / DSL / Satellite internet providers will not cut the bill.
+
+Also, make sure you can get a hard-wired ethernet connection. Wi-Fi should be fine, but we recommend buying a large ethernet cable, drilling some holes or buying a PowerLine adapter for an optimal online experience.
