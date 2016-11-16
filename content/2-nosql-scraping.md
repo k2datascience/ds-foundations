@@ -36,13 +36,13 @@ For a more in-depth background, read [this explanation by MongoDB](https://www.m
 #### NoSQL Database Types
 There are 4 main NoSQL database types:
 
-**Document databases** - The model is basically versioned documents that are collections of other key-value collections. The semi-structured documents are stored in formats like JSON. Document databases are essentially the next level of key-value, allowing nested values associated with each key. Document databases support querying more efficiently. An example of a document stored database is MongoDB.
+**Document databases** - The model is basically versioned documents that are collections of other key-value collections. The semi-structured documents are stored in formats like JSON. Document databases are essentially the next level of key-value, allowing nested values associated with each key. Document databases support querying more efficiently. An example of a document store database is MongoDB.
 
 **Key-Value stores** - The main idea here is using a hash table where there is a unique key and a pointer to a particular item of data. The key-value model is the simplest and easiest to implement. But it is inefficient when you are only interested in querying or updating part of a value, among other disadvantages. Examples of key-value databases are Amazon simpleDB and Oracle Berkeley DB.
 
 **Wide-Column stores** - These were created to store and process very large amounts of data distributed over many machines. There are still keys but they point to multiple columns. The columns are arranged by column family. Examples of column-oriented databases are Cassandra and HBase.
 
-**Graph stores** - Instead of tables of rows and columns and the rigid structure of SQL, a flexible graph model is used which, again, can scale across multiple machines. NoSQL databases do not provide a high-level declarative query language like SQL to avoid overtime in processing. Rather, querying these databases is data-model specific.
+**Graph stores** - Instead of tables of rows and columns and the rigid structure of SQL, a flexible graph model is used which, again, can scale across multiple machines. NoSQL databases do not provide a unified high-level declarative query language like SQL to avoid overtime in processing. Rather, querying these databases is data-model specific.
 
 In the curriculum, you will be exposed to Document Databases. Depending on your final project or if you choose to explore data engineering in further detail, you may want to use Key-Value Stores and Wide-Column Stores.
 
