@@ -78,4 +78,5 @@ Complete 1 of the following scraping projects or create your own. Store all the 
 
 1. Scrape your alma mater for class schedule information: which classes are being taught, broken down by department and course number; by which professors; at which times on which days. *(It may be easier to start with the department of your major first)*
 2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
-3. Scrape the listings of your favorite online store. For example, I scraped Bonobos.com, and gathered the title, price and description of all the products in the "Bottoms" category.
+3. Scrape the listings of your favorite online store.
+4. Do you own project.
