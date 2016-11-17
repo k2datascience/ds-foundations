@@ -16,7 +16,7 @@ You might be wondering why we are learning about building websites and apps? The
 
 ### <a name="section-a"></a>1. HTML / CSS
 
-HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
+HTML, HyperText Markup Language, gives content, structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
 
 These are the 2 main languages used in building websites.
 
@@ -36,7 +36,7 @@ Note: The code is in Python 2.7, so you will have to update certain syntax to Py
 
 ### <a name="section-c"></a>3. Assignments
 
-1. Complete Shay Howe's introductory course and if you find this topic interesting the advanced one as well. If you ever want to present your data science projects as an interactive web application, you now have the foundations of design to make it look presentable.
+1. Complete Shay Howe's introductory course and if you find this topic interesting; the advanced one as well. If you ever want to present your data science projects as an interactive web application, you now have the foundations of design to make it look presentable.
 
 2. Complete the entire Flask book and all the exercises. If you get stuck, review the companion code on the author's GitHub repository.
 
