@@ -55,17 +55,19 @@ Web scraping (web harvesting or web data extraction) is a computer software tech
 
 Web scraping is closely related to web indexing, which indexes information on the web using a bot or web crawler and is a universal technique adopted by most search engines. In contrast, web scraping focuses more on the transformation of unstructured data on the web, typically in HTML format, into structured data that can be stored and analyzed in a central local database or spreadsheet. Web scraping is also related to web automation, which simulates human browsing using computer software. Uses of web scraping include online price comparison, contact scraping, weather data monitoring, website change detection, research, web mashup and web data integration.
 
-#### Option 1 - Book
+#### Option 1 - Beautiful Soup Documentation
+###### (1 - 2 hours, Easy)
+
+Beautiful Soup is the web scraping Python library that you will use during the bootcamp. Please go through its [official documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
+
+#### Option 2 - Reference Book
+###### (3 - 6 hours, Easy)
 
 Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp.
 
-[A beginner / intermediate reference book](https://s3.amazonaws.com/ds-foundations/resources/web_scraping_with_python.pdf). 
+[A beginner / intermediate reference book](https://s3.amazonaws.com/ds-foundations/resources/web_scraping_with_python.pdf).
 
 Note: The code is in Python 2.7, so you will have to update certain syntax to Python 3.5.
-
-#### Option 2 - Beautiful Soup official docs
-
-Beautiful Soup is the web scraping Python library that you will use during the bootcamp. Please go through its [official documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
 
 ---
 
