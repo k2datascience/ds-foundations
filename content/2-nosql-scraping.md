@@ -75,7 +75,7 @@ Note: The code is in Python 2.7, so you will have to update certain syntax to Py
 
 1. Complete the Data Wrangling with MongoDB course on Udacity.
 
-2. Complete the Web Scraping in Python book and all the exercises.
+2. Complete 1 of the Web Scraping options. 
 
 ---
 
