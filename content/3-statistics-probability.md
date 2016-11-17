@@ -1,5 +1,7 @@
 # Statistics & Probability
 
+You need to have a strong understanding of college-level statistics and probability. *If you have a preferred resource or textbook, feel free to use that.*
+
 ## Table of Contents
 [1. Course Options](#section-a)
 
@@ -11,30 +13,20 @@
 
 ### <a name="section-a"></a>1. Course Options
 
-You need to have a strong understanding of college-level statistics and probability. *If you have a preferred resource or textbook, feel free to use that.*
-
 #### Option 1 - Online MOOC
-##### (3 - 6 hours, Easy)
+###### (3 - 6 hours, Easy)
 
-Stanford Online Lagunita - [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about).
-
-Carnegie Mellon Open Learning Initiative - [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/).
-
-These courses have the same content, but are organized and presented differently. Both are free and self-paced.
+Stanford Online Lagunita's [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about) or Carnegie Mellon Open Learning Initiative's [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/). These courses have the same content, but are organized and presented differently. Both are free and self-paced.
 
 #### Option 2 - Khan Academy
-##### (5 - 12 hours, Medium)
+###### (5 - 12 hours, Medium)
 
-Khan Academy - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability).
-
-The material is free and self-paced.
+[Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). The material is free and self-paced.
 
 #### Option 3 - Statistics Textbook
-##### (20 - 35 hours, Hard)
+###### (20 - 35 hours, Hard)
 
-OpenIntro - [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os).
-
-The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
+[Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
 
 ---
 

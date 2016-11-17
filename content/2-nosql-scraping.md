@@ -2,7 +2,6 @@
 
 We explore non-relational databases. Then, we move on to web scraping and tackle an integrated project.
 
-
 ## Table of Contents
 [1. NoSQL and Databases](#section-a)
 
