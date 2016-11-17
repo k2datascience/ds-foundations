@@ -23,7 +23,7 @@ Next move onto [multivariable calculus](https://www.khanacademy.org/math/calculu
 
 #### Option 2
 
-[Vector Calculus by Michael Corral](https://s3.amazonaws.com/ds-foundations/resources/resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
+[Vector Calculus by Michael Corral](https://s3.amazonaws.com/ds-foundations/resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
 
 #### Option 3
 
@@ -37,13 +37,13 @@ If you prefer a classical academic approach, feel free to watch this [UCBerkeley
 
 ### <a name="section-b"></a>2. Refresher
 
-If you want an abridged text summary of the same topics, here is [a set of notes](../resources/mvc.pdf) by Barbara Niethammer and Andrew Dancer at Oxford University. There are not many visualizations and the last section dives into manifolds. Manifolds are out of the scope of our curriculum, but take a stab at learning more about it. Top-notch data scientists are able to alter off-the-shelf algorithms with advanced mathematics and create truly amazing machine learning systems.
+If you want an abridged text summary of the same topics, here is [a set of notes](https://s3.amazonaws.com/ds-foundations/resources/mvc.pdf) by Barbara Niethammer and Andrew Dancer at Oxford University. There are not many visualizations and the last section dives into manifolds. Manifolds are out of the scope of our curriculum, but take a stab at learning more about it. Top-notch data scientists are able to alter off-the-shelf algorithms with advanced mathematics and create truly amazing machine learning systems.
 
 ---
 
 ### <a name="section-c"></a>3. Summary
 
-If you have taken Multivariable Calculus in an academic setting before, here is a [1 page summary version](../resources/calculus-1.pdf).
+If you have taken Multivariable Calculus in an academic setting before, here is a [1 page summary version](https://s3.amazonaws.com/ds-foundations/resources/calculus-1.pdf).
 
 ---
 
