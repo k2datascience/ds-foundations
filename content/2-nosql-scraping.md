@@ -57,7 +57,7 @@ Web scraping is closely related to web indexing, which indexes information on th
 
 Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp.
 
-[A beginner / intermediate reference book](../resources/web_scraping_with_python.pdf). (*Right-click and Save Link As...*)
+[A beginner / intermediate reference book](https://s3.amazonaws.com/ds-foundations/resources/web_scraping_with_python.pdf). 
 
 Note: The code is in Python 2.7, so you will have to update certain syntax to Python 3.5.
 

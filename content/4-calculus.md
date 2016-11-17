@@ -23,7 +23,7 @@ Next move onto [multivariable calculus](https://www.khanacademy.org/math/calculu
 
 #### Option 2
 
-[Vector Calculus by Michael Corral](../resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
+[Vector Calculus by Michael Corral](https://s3.amazonaws.com/ds-foundations/resources/resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
 
 #### Option 3
 
