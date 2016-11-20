@@ -55,9 +55,7 @@ Whenever you run into an issue and are stuck, you should first search the specif
 
 ### <a name="section-e"></a>5. Documentation
 
-You should start getting into the habit of reading programming documentation as well as papers about statistical and probabilistic models.
-
-[Latest Python 3.x Documentation](https://docs.python.org/3/)
+You should start getting into the habit of reading programming documentation as well as papers about statistical and probabilistic models. For example, the [latest Python 3.x documentation](https://docs.python.org/3/).
 
 During the bootcamp, you will spend countless hours pouring through the scikit-learn documentation. Occasionally the site goes down and a small part of the internet freaks out. [Keep the PDF handy](https://s3.amazonaws.com/ds-foundations/resources/scikit-learn-docs.pdf).
 

@@ -19,7 +19,7 @@ Most people use Macs. They *are* expensive, but they work really well and they h
 
 The bootcamp is intense.  Spending time wrestling with compatibility stuff you really don't have to has a high opportunity cost.
 
-We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. On top of this, it's common for productive data scientists to not use Windows, and in particular the staff and mentors at K2 **does not** and **should not** spend their time troubleshooting Windows issues.
+We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. The staff and mentors at K2 **does not** and **should not** spend their time troubleshooting Windows issues.
 
 If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
 
