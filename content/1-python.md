@@ -13,22 +13,22 @@ A complete review of the Python language from introductory to advanced topics.
 
 ### <a name="section-a"></a>1. Course Options
 
-#### Option 1 - Zed A. Shaw
-###### (3 - 6 hours, Easy)
-
-[Learn Python the Hard Way](https://learnpythonthehardway.org/book/). A step-by-step tutorial for total beginners to learn Pyhton. The online version is free and the tutorial is self-paced.
-
-#### Option 2 - Carnegie Mellon MOOC
+#### Option 1 - Carnegie Mellon MOOC
 ###### (4 - 6 hours, Easy)
 
 [Principles of Computing with Python](https://oli.cmu.edu/courses/free-open/computing-course-details/). The course is free and self-paced. This course does not cover object-oriented programming, so be sure to [review it](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
 
-#### Option 3 - Think Python
+#### Option 2 - Think Python
 ###### (6 - 10 hours, Medium)
 
 [Think Python](http://greenteapress.com/wp/think-python-2e/) is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
 
 Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
+
+#### Option 3 - The Python Tutorial
+###### (6 - 10 hours, Medium)
+
+[The Python Tutorial](https://docs.python.org/3/tutorial) is available from the official Python documentation website. It is a good resource if you already know how to program in other languages. It focuses on the Python language and doesn't explain general programming concepts.
 
 ---
 
