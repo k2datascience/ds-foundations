@@ -26,7 +26,16 @@ These are the 2 main languages used in building websites.
 
 ### <a name="section-b"></a>2. Flask
 
-Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. A microframework is a term used to refer to minimalistic web application frameworks. It is contrasted with full-stack framework also called enterprise frameworks. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself.
+Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. A microframework is a term used to refer to minimalistic web application frameworks. It is contrasted with full-stack framework also called enterprise frameworks. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. The [official documentation](http://flask.pocoo.org/docs/0.11/) is well done.
+
+
+#### Option 1 - Flask Documentation
+###### (1 - 2 hours, Easy)
+
+You can follow the [Quickstart guide](http://flask.pocoo.org/docs/0.11/quickstart/) and the [official tutorial](http://flask.pocoo.org/docs/0.11/tutorial/) written by the creators of the framework.
+
+#### Option 2 - Reference Book
+###### (3 - 6 hours, Easy)
 
 The [best guide for building web apps](https://s3.amazonaws.com/ds-foundations/resources/flask_web_dev.pdf) in Flask from scratch.
 

@@ -1,4 +1,4 @@
-# Bayesian Statistics
+# Bayesian Analysis
 
 ## Table of Contents
 [1. Course Options](#section-a)

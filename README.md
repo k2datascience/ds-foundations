@@ -35,7 +35,7 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 **Phase 3**
  - [Statistics & Probability](content/3-statistics-probability.md)
- - (Optional) [Bayesian Statistics](content/4-bayesian-statistics.md)
+ - (Optional) [Bayesian Analysis](content/4-bayesian-analysis.md)
 
 **Phase 4**
  - [Linear Algebra](content/3-linear-algebra.md)

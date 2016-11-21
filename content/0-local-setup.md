@@ -57,6 +57,6 @@ You should have at least 2 screens. If you have a desktop computer, you can easi
 
 ## <a name="section-c"></a>3. Internet
 
-You will be streaming video lectures and attending video calls and conferences regularly. Please make sure you have a reliable cable or fiber optic internet provider. 56K / DSL / Satellite internet providers will not cut the bill.
+You will be streaming video lectures and attending video conferences regularly. Please make sure you have a reliable cable or fiber optic internet provider. 56K / DSL / Satellite internet providers will not cut it.
 
-Also, make sure you can get a hard-wired ethernet connection. Wi-Fi should be fine, but we recommend buying a large ethernet cable, drilling some holes or buying a PowerLine adapter for an optimal online experience.
+Also, make sure you can get a hard-wired ethernet connection. Wi-Fi should be fine, but we recommend buying a large ethernet cable, drilling some holes or buying a PowerLine adapter for an optimal learning experience.
