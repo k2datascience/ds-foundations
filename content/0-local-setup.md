@@ -19,7 +19,7 @@ Most people use Macs. They *are* expensive, but they work really well and they h
 
 The bootcamp is intense.  Spending time wrestling with compatibility stuff you really don't have to has a high opportunity cost.
 
-We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. On top of this, it's common for productive data scientists to not use Windows, and in particular the staff and mentors at K2 **does not** and **should not** spend their time troubleshooting Windows issues.
+We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. The staff and mentors at K2 **does not** and **should not** spend their time troubleshooting Windows issues.
 
 If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
 
@@ -57,6 +57,6 @@ You should have at least 2 screens. If you have a desktop computer, you can easi
 
 ## <a name="section-c"></a>3. Internet
 
-You will be streaming video lectures and attending video calls and conferences regularly. Please make sure you have a reliable cable or fiber optic internet provider. 56K / DSL / Satellite internet providers will not cut the bill.
+You will be streaming video lectures and attending video conferences regularly. Please make sure you have a reliable cable or fiber optic internet provider. 56K / DSL / Satellite internet providers will not cut it.
 
-Also, make sure you can get a hard-wired ethernet connection. Wi-Fi should be fine, but we recommend buying a large ethernet cable, drilling some holes or buying a PowerLine adapter for an optimal online experience.
+Also, make sure you can get a hard-wired ethernet connection. Wi-Fi should be fine, but we recommend buying a large ethernet cable, drilling some holes or buying a PowerLine adapter for an optimal learning experience.

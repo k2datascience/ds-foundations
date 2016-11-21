@@ -1,4 +1,4 @@
-# Bayesian Statistics
+# Bayesian Analysis
 
 ## Table of Contents
 [1. Course Options](#section-a)
@@ -29,4 +29,4 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 
 ### <a name="section-b"></a>2. Assignments
 
-1. Complete at least 1 of the books. The first one takes a few hours. The second one can take 5-10 hours depending on your background.
+1. Complete at least 1 of the books, depending on your comfort level of the previous section.
