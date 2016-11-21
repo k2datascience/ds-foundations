@@ -26,7 +26,7 @@ A complete review of the Python language from introductory to advanced topics.
 Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
 
 #### Option 3 - The Python Tutorial
-###### (6 - 10 hours, Medium)
+###### (6 - 10 hours, Hard)
 
 [The Python Tutorial](https://docs.python.org/3/tutorial) is available from the official Python documentation website. It is a good resource if you already know how to program in other languages. It focuses on the Python language and doesn't explain general programming concepts.
 
