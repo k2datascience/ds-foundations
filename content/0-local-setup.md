@@ -15,13 +15,11 @@ We explain which operating system to pick and why. Also, how to setup your desk 
 
 **If you program regularly on a Windows or Linux computer, feel free to skip this section. Some of your fellow students are fairly new to programming and local development environments.**
 
-Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.  That way, you can spend more time on data science and less time trouble-shooting.
+Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.  That way, you can spend more time on data science and less time trouble-shooting. The bootcamp is intense.  Spending time wrestling with compatibility stuff you really don't have to has a high opportunity cost.
 
-The bootcamp is intense.  Spending time wrestling with compatibility stuff you really don't have to has a high opportunity cost.
+We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. The staff and mentors at K2 **do not** and **should not** spend their time troubleshooting Windows issues.
 
-We find that things are more difficult to set up on Windows, which leads to large productivity hurdles and setbacks. The staff and mentors at K2 **does not** and **should not** spend their time troubleshooting Windows issues.
-
-If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
+If you want to spend time learning how to configure things, we recommend learning how to configure Linux over learning how to configure Windows.
 
 ### If not Mac, if not Windows, then ---> Linux
 
