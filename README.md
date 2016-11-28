@@ -20,12 +20,12 @@ The Foundations program is a curated list of books, tutorials and other resource
   - [Local Setup](content/0-local-setup.md)
   - [Development Environment](content/0-environment.md)
   - [General Tips](content/0-general-tips.md)
-  - [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps) - Blog post from a data scientist at Twitter reflecting on his first 2 years.
+  - Read [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps)
 
 **Phase 1**
   - [Introduction to Computer Science](content/1-intro-cs.md)
   - [Python Language Review](content/1-python.md)
-  - [Try Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+  - Try [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
   - (Optional) [Advanced CS Concepts](content/1-cs-concepts.md)
 
 **Phase 2**
