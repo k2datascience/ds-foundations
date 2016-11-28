@@ -60,3 +60,10 @@ Note: The code is in Python 2.7, so you will have to update certain syntax to Py
   - The ability to search for articles
   - Try to setup your own HTML/CSS styling.
   - If you have time, setup user authentication and only allow registered users to create, edit and delete articles.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.

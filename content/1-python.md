@@ -47,3 +47,10 @@ Create the following in Python. Try different programming paradigms, such as pro
 3. Collatz Conjecture
 4. Reverse Polish Notation Calculator
 5. Blackjack Game
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.

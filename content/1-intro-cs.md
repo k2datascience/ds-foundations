@@ -26,3 +26,10 @@ Harvard Online Learning's [CS50: Introduction to Computer Science](http://online
 ### <a name="section-b"></a>2. Assignments
 
 1. Complete at least 1 of the course options. The first one takes about 4 hours. The second one can take up to 20-30 hours depending on your background.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.

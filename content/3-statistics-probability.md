@@ -47,3 +47,10 @@ Stanford Online Lagunita's [Probability and Statistics](https://lagunita.stanfor
 
 1. Complete 1 of the course options.
 2. Read through the additional topics.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.

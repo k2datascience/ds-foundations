@@ -1,4 +1,4 @@
-# General Tips
+# NoSQL Databases and Web Scraping
 
 We explore non-relational databases. Then, we move on to web scraping and tackle an integrated project.
 
@@ -87,3 +87,10 @@ Complete 1 of the following scraping projects or create your own. Store all the 
 2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
 3. Scrape the listings of your favorite online store.
 4. Do you own project.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.
