@@ -47,3 +47,10 @@ If you have taken Linear Algebra in an academic setting before, here is a [4 pag
 ### <a name="section-d"></a>4. Assignments
 
 1. Make sure you have reviewed all the concepts.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.
