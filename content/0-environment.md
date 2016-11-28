@@ -37,9 +37,9 @@ If you are serious about a career that involves programming, you need to start g
 
 ---
 
-### <a name="section-c"></a>3. Text Editors (Terminal and Graphical)
+### <a name="section-c"></a>3. Text Editors
 
-You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments.We recommend the Atom Text Editor.
+You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments. We recommend the Atom Text Editor.
 
 #### Option 1 - Short Video Tutorial
 

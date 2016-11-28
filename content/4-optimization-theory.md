@@ -27,7 +27,7 @@ For a more intermediate coverage of topics, browse [this presentation](https://s
 
 ### <a name="section-c"></a>3. Advanced
 
-#### Option 1- Stanford MOOC
+#### Experienced Option- Stanford MOOC
 ###### (25 - 35 hours, Medium)
 
 Stanford Online Lagunita - [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about). The course is free and self-paced. The textbook introduction referenced above corresponds to this course.

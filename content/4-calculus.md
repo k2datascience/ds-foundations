@@ -17,22 +17,22 @@ Multivariate differentiation is the cornerstone for many optimization functions.
 
 If you have not reviewed Calculus in awhile, review the [Khan Academy section](https://www.khanacademy.org/math/calculus-home). You only need to cover "Limits and continuity", "Taking derivatives" and "Derivative applications". Integration is not necessary for our curriculum, but feel free to review it if you have time! [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) are a highly regarded alternative.
 
-#### Option 1 - Khan Academy
+#### Introductory Option - Khan Academy
 ###### (3 - 6 hours, Easy)
 
 Next move onto [multivariable calculus](https://www.khanacademy.org/math/calculus-home/multivariable-calculus). Complete the sections "Thinking about multivariable functions", "Derivatives of multivariable functions", and "Applications of multivariable derivatives". Again, if you have time, feel free to complete the whole course.
 
-#### Option 2 - Michael Corral
+#### Experienced Option - Michael Corral
 ###### (10 - 20 hours, Medium)
 
 [Vector Calculus by Michael Corral](https://s3.amazonaws.com/ds-foundations/resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
 
-#### Option 3 - Paul's Math Notes
+#### Experienced Option - Paul's Math Notes
 ###### (15 - 30 hours, Medium)
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) has a complete coverage of all Calculus 1, 2, and 3 topics.
 
-#### Option 4 - Edward Frenkel
+#### Reference Option - Edward Frenkel
 ###### (25 - 45 hours, Hard)
 
 If you prefer a classical academic approach, feel free to watch this [UCBerkeley Course](https://www.youtube.com/watch?v=cw6pHhjhKmk) by Professor Edward Frenkel.

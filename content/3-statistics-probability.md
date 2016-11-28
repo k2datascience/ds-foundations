@@ -13,17 +13,17 @@ You need to have a strong understanding of college-level statistics and probabil
 
 ### <a name="section-a"></a>1. Course Options
 
-#### Option 1 - Stanford MOOC
+#### Introductory Option - Stanford MOOC
 ###### (3 - 6 hours, Easy)
 
 Stanford Online Lagunita's [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about). This course is free and self-paced.
 
-#### Option 2 - Khan Academy
+#### Experienced Option - Khan Academy
 ###### (5 - 12 hours, Medium)
 
 [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). The material is free and self-paced.
 
-#### Option 3 - Statistics Textbook
+#### Reference Option - Statistics Textbook
 ###### (20 - 35 hours, Hard)
 
 [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
