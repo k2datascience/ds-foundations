@@ -67,3 +67,10 @@ Python is a high-level, interpreted programming language. Unlike other older lan
   - Sorting Algorithms - Selection Sort, Merge Sort and Bubble Sort
   - Searching Algorithms - Linear Search and Binary Search
   - Data Structures - Stack, Queue, Linked List and Binary Tree
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.

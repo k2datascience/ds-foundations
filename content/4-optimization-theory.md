@@ -38,3 +38,10 @@ Stanford Online Lagunita - [Convex Optimization](https://lagunita.stanford.edu/c
 
 1. Read through the introduction PDF.
 2. Depending on your mathematics background, go as far as you can.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.
