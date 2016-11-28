@@ -30,3 +30,10 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 ### <a name="section-b"></a>2. Assignments
 
 1. Complete at least 1 of the books, depending on your comfort level of the previous section.
+
+---
+
+#### Feedback (optional)
+###### (1 - 2 minutes)
+
+Please provide us with [feedback](https://goo.gl/forms/gkWsYCSFXw2z40v33) once you have just completed this page. It will help us improve the program both for you and for fellow students.
