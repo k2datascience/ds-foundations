@@ -1,4 +1,4 @@
-# General Tips
+# NoSQL Databases and Web Scraping
 
 We explore non-relational databases. Then, we move on to web scraping and tackle an integrated project.
 
