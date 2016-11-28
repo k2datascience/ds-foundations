@@ -1,4 +1,4 @@
-# General Tips
+# SQL Databases and APIs
 
 We explore SQL queries and relational databases. Then, we move on to APIs and tackle an integrated project.
 
