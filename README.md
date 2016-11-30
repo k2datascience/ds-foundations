@@ -25,7 +25,6 @@ The Foundations program is a curated list of books, tutorials and other resource
 **Phase 1**
   - [Introduction to Computer Science](content/1-intro-cs.md)
   - [Python Language Review](content/1-python.md)
-  - Try [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
   - (Optional) [Advanced CS Concepts](content/1-cs-concepts.md)
 
 **Phase 2**
