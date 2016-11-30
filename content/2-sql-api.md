@@ -45,7 +45,7 @@ Modern APIs are built on a REST architectural style. Here is a [short overview v
 #### Requests
 APIs are hosted on a company's web servers. For example, when you type in `www.facebook.com`, your browser sends off a request to a specific Facebook server to grab all the information needed to load `www.facebook.com`. Similarly, APIs make a request to a web server, however, instead of retrieving the HTML, CSS, and JavaScript for a webpage, an API request will retrieve data like a users information usually in JSON format. Don't worry if you don't know about JSON, we will cover that in a minute.
 
-In Python, we will be using the [request library](http://docs.python-requests.org/en/master/) to make a request to a web server to retrieve the information we need.
+In Python, we will be using the Requests library to make a request to a web server to retrieve the information we need.
 
 ```
 import requests
@@ -99,9 +99,9 @@ response = requests.get("http://www.example.com/api/endpoint", parameters)
 data = response.json()
 ```
 
-#### API Tutorial
+#### Tutorial
 
-Follow along with this [tutorial from HackerEarth](http://engineering.hackerearth.com/2014/08/21/python-requests-module/).
+Follow along with the [Requests quickstart](http://docs.python-requests.org/en/master/user/quickstart).
 
 ---
 
