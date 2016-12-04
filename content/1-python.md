@@ -47,6 +47,7 @@ Create the following in Python. Try different programming paradigms, such as pro
 5. Blackjack Game
 
 Optional Projects
+
 1. Sieve of Eratosthenes
 2. Collatz Conjecture
 
