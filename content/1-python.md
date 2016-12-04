@@ -46,10 +46,10 @@ Create the following in Python. Try different programming paradigms, such as pro
 4. Reverse Polish Notation Calculator
 5. Blackjack Game
 
-Optional Projects
+Optional Math Programs
 
-1. Sieve of Eratosthenes
-2. Collatz Conjecture
+1. Collatz Conjecture
+2. Sieve of Eratosthenes
 
 ---
 
