@@ -32,6 +32,14 @@ For a more intermediate coverage of topics, browse [this presentation](https://s
 
 Stanford Online Lagunita - [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about). The course is free and self-paced. The textbook introduction referenced above corresponds to this course.
 
+#### Review Option - Stanford Deep Learning Materials
+###### (3 - 6 hours, Medium)
+
+Here are two review guides created for Stanford's Deep Learning for Natural Language Processing course:
+
+1. [Convex Optimization Review](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
+2. [More Optimization (Stochastic Gradient Descent) Review](http://cs231n.github.io/optimization-1/)
+
 ---
 
 ### <a name="section-d"></a>4. Assignments

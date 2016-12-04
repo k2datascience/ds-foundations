@@ -47,6 +47,7 @@ If you have taken Linear Algebra in an academic setting before, here is a [4 pag
 ### <a name="section-d"></a>4. Assignments
 
 1. Make sure you have reviewed all the concepts.
+2. (Optional) If you want to test your knowledge, complete the questions in this [Linear Algebra practice problem set](https://s3.amazonaws.com/ds-foundations/resources/LinearAlgebraQuestions.pdf).
 
 ---
 
