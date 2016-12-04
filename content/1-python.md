@@ -43,10 +43,12 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 Create the following in Python. Try different programming paradigms, such as procedural and object-oriented.
 
 1. Pig Latin Translator
-2. Sieve of Eratosthenes
-3. Collatz Conjecture
 4. Reverse Polish Notation Calculator
 5. Blackjack Game
+
+Optional Projects
+1. Sieve of Eratosthenes
+2. Collatz Conjecture
 
 ---
 

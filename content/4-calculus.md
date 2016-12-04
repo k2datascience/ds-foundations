@@ -54,6 +54,7 @@ If you have taken Multivariable Calculus in an academic setting before, here is 
 ### <a name="section-d"></a>4. Assignments
 
 1. Make sure you have reviewed all the concepts.
+2. (Optional) If you want to test your knowledge, complete the questions in this [Calc 1 and 2 review guide](https://s3.amazonaws.com/ds-foundations/resources/calc_1_2_questions.pdf) and this [Calc 3 midterm exam](https://s3.amazonaws.com/ds-foundations/resources/calc_3_questions.pdf).
 
 ---
 
