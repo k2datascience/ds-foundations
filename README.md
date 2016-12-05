@@ -41,6 +41,8 @@ The Foundations program is a curated list of books, tutorials and other resource
  - [Multivariable Calculus](content/4-calculus.md)
  - (Optional) [Optimization Theory](content/4-optimization-theory.md)
 
+**[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
+
 ---
 
 ## <a name="section-b"></a>2. Submitting Work
