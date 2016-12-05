@@ -5,7 +5,7 @@ This page contains links to recorded office hours and live coding solutions of m
 ---
 
 - Introduction Presentation (Dec. 6th)
-- Development Environment Basics (Dec. 6th)
+- [Development Environment](https://vimeo.com/194302347/3a64f86606)
 - [Python Programming Review](https://vimeo.com/194280066/4ab832b6d3)
 - Pig Latin Translator (Dec. 8th)
 - Reverse Polish Notation Calculator (Dec. 8th)
