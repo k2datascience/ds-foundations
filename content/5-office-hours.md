@@ -4,15 +4,15 @@ This page contains links to recorded office hours and live coding solutions of m
 
 ---
 
-- Introduction Presentation (coming Dec. 5th)
-- Development Environment Basics (coming Dec. 5th)
+- Introduction Presentation (Dec. 6th)
+- Development Environment Basics (Dec. 6th)
 - [Python Programming Review](https://vimeo.com/194280066/4ab832b6d3)
-- Pig Latin Translator (coming Dec. 7th)
-- Reverse Polish Notation Calculator (coming Dec. 7th)
+- Pig Latin Translator (Dec. 8th)
+- Reverse Polish Notation Calculator (Dec. 8th)
 - [Procedural Blackjack](https://vimeo.com/194279967/26c301a941)
-- [OOP Blackjack] (coming Dec. 9th)
-- SQL/API Project (coming Dec. 7th)
-- NoSQL/Scraping Project (coming Dec. 9th)
+- OOP Blackjack (Dec. 10th)
+- SQL/API Project (Dec. 8th)
+- NoSQL/Scraping Project (Dec. 10th)
 - Flask Project (TBD)
 - Statistics & Probability (TBD)
 - Linear Algebra (TBD)
