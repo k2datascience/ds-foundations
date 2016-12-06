@@ -42,14 +42,14 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 
 Create the following in Python. Try different programming paradigms, such as procedural and object-oriented.
 
-1. Pig Latin Translator
-4. Reverse Polish Notation Calculator
-5. Blackjack Game
+1. [Pig Latin Translator](https://en.wikipedia.org/wiki/Pig_Latin)
+4. [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+5. [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
 
 Optional Math Programs
 
-1. Collatz Conjecture
-2. Sieve of Eratosthenes
+1. [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
 ---
 

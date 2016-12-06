@@ -4,11 +4,11 @@ This page contains links to recorded office hours and live coding solutions of m
 
 ---
 
-- Introduction Presentation (Dec. 6th)
+- [Introduction Presentation](https://vimeo.com/194430671/ece3b34d91)
 - [Development Environment](https://vimeo.com/194302347/3a64f86606)
 - [Python Programming Review](https://vimeo.com/194280066/4ab832b6d3)
-- Pig Latin Translator (Dec. 8th)
-- Reverse Polish Notation Calculator (Dec. 8th)
+- [Pig Latin Translator](https://vimeo.com/194338026/e0c6a99264)
+- [OOP Reverse Polish Notation Calculator](https://vimeo.com/194445480/480545abeb)
 - [Procedural Blackjack](https://vimeo.com/194279967/26c301a941)
 - OOP Blackjack (Dec. 10th)
 - SQL/API Project (Dec. 8th)
