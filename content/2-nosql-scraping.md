@@ -63,7 +63,7 @@ Beautiful Soup is the web scraping Python library that you will use during the b
 #### Experienced Option - Published Book
 ###### (3 - 6 hours, Easy)
 
-Please complete the exercises throughout the first book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp.
+Please complete the exercises throughout the book. You will often have to use web scraping to obtain data on the internet throughout the bootcamp.
 
 [A beginner / intermediate reference book](https://s3.amazonaws.com/ds-foundations/resources/web_scraping_with_python.pdf).
 

@@ -22,20 +22,15 @@ If you have not reviewed Calculus in awhile, review the [Khan Academy section](h
 
 Next move onto [multivariable calculus](https://www.khanacademy.org/math/calculus-home/multivariable-calculus). Complete the sections "Thinking about multivariable functions", "Derivatives of multivariable functions", and "Applications of multivariable derivatives". Again, if you have time, feel free to complete the whole course.
 
-#### Experienced Option - Michael Corral
-###### (10 - 20 hours, Medium)
-
-[Vector Calculus by Michael Corral](https://s3.amazonaws.com/ds-foundations/resources/calc3book.pdf). There is nothing like reading an entire mathematics textbook by yourself. There are also several excercise problems to test your knowledge.
-
 #### Experienced Option - Paul's Math Notes
-###### (15 - 30 hours, Medium)
+###### (7 - 12 hours, Medium)
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) has a complete coverage of all Calculus 1, 2, and 3 topics.
 
-#### Reference Option - Edward Frenkel
+#### Reference Option
 ###### (25 - 45 hours, Hard)
 
-If you prefer a classical academic approach, feel free to watch this [UCBerkeley Course](https://www.youtube.com/watch?v=cw6pHhjhKmk) by Professor Edward Frenkel.
+If you prefer a classical academic approach, feel free to watch this [UCBerkeley Course](https://www.youtube.com/watch?v=cw6pHhjhKmk) by Professor Edward Frenkel or read through Michael Corral's textbook [Vector Calculus]((https://s3.amazonaws.com/ds-foundations/resources/calc3book.pdf)).
 
 ---
 
