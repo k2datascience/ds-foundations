@@ -27,10 +27,10 @@ The Foundations program is a curated list of books, tutorials and other resource
   - [Python Language Review](content/1-python.md)
 
 **Phase 2**
-  - [SQL Databases and APIs](content/2-sql-api.md)
-  - [NoSQL Databases and Web Scraping](content/2-nosql-scraping.md)
+  - [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
 
 **Phase 3**
+ - [Python Data Analysis](content/3-data-analysis.md)
  - [Statistics & Probability](content/3-statistics-probability.md)
 
 **Phase 4**
@@ -41,6 +41,7 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 **Optional Topics**
 - [Advanced CS Concepts](content/1-cs-concepts.md)
+- [NoSQL Databases](content/2-nosql.md)
 - [Web Development](content/2-flask.md)
 - [Bayesian Analysis](content/4-bayesian-analysis.md)
 - [Optimization Theory](content/4-optimization-theory.md)

@@ -20,15 +20,9 @@ Several data mining and machine learning algorithms rely heavily on Linear Algeb
 
 We found the coverage of Linear Algebra at Khan Academy to be sufficient enough for our curriculum. [You can find it here](https://www.khanacademy.org/math/linear-algebra). Sal does a good job explaining the "how".
 
-#### Experienced Option - A First Course in Linear Algebra
-###### (15 - 25 hours, Medium)
-
-Here's an online version of [A First Course in Linear Algebra](http://linear.ups.edu/). The textbook is regularly updated and there are a plethora of example problems.
-
-#### Reference Option - Gilbert Strang
-###### (20 - 40 hours, Hard)
-
-If you want to learn the "why", go through [Professor Gilbert Strang's course](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) on Linear Algebra. Note this will take over 30 hours and is not required.
+#### Reference Options
+- [Professor Gilbert Strang's course](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) on Linear Algebra.
+- Here's an online version of [A First Course in Linear Algebra](http://linear.ups.edu/).
 
 ---
 

@@ -23,12 +23,10 @@ A complete review of the Python language from introductory to advanced topics.
 
 [Think Python](http://greenteapress.com/wp/think-python-2e/) is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
 
-Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional, but highly recommended.
+Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional.
 
-#### Reference Option - The Python Tutorial
-###### (6 - 10 hours, Hard)
-
-[The Python Tutorial](https://docs.python.org/3/tutorial) is available from the official Python documentation website. It is a good resource if you already know how to program in other languages. It focuses on the Python language and doesn't explain general programming concepts.
+#### Reference Option
+- [The Python Tutorial](https://docs.python.org/3/tutorial) is available from the official Python documentation website. It is a good resource if you already know how to program in other languages. It focuses on the Python language and doesn't explain general programming concepts.
 
 ---
 
@@ -43,13 +41,8 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 Create the following in Python. Try different programming paradigms, such as procedural and object-oriented.
 
 1. [Pig Latin Translator](https://en.wikipedia.org/wiki/Pig_Latin)
-4. [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
-5. [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
-
-Optional Math Programs
-
-1. [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
-2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+2. [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+3. [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
 
 ---
 

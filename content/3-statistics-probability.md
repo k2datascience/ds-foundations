@@ -23,10 +23,17 @@ Stanford Online Lagunita's [Probability and Statistics](https://lagunita.stanfor
 
 [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). The material is free and self-paced.
 
-#### Reference Option - Statistics Textbook
-###### (20 - 35 hours, Hard)
+#### Experienced Option with Python - Think Stats
+###### (5 - 12 hours, Medium)
 
-[Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
+[Think Stats](http://greenteapress.com/wp/think-stats-2e/) is an introduction to Probability and Statistics for Python programmers.
+
+Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
+
+If you have basic skills in Python, you can use them to learn concepts in probability and statistics.Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding.
+
+#### Reference Option
+- [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
 
 ---
 
