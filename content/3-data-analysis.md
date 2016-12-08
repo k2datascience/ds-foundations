@@ -11,6 +11,8 @@ Learn Python modules that make data analysis and visualization easy.
 
 [4. Assignments](#section-d)
 
+[5. Assignments](#section-e)
+
 ---
 
 ### <a name="section-a"></a>1. NumPy
@@ -54,6 +56,20 @@ Go Deep - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook
 ### <a name="section-d"></a>4. Assignments
 
 1. Complete the tutorials for NumPy, matplotlib and pandas.
+
+---
+
+### <a name="section-d"></a>5. Projects
+
+Download the following Notebooks and accompanying data sets. They have questions for you about the data.
+
+1. Bangalore Weather - Notebook and Data
+
+2. Lending Club - Notebook and Data
+
+3. College Majors - Notebook and Data
+
+4. Thanksgiving Dinner - Notebook and Data
 
 ---
 
