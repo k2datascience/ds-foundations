@@ -25,7 +25,7 @@ Get Started - [Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/qu
 
 ### <a name="section-b"></a>2. matplotlib
 
-matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell (ala MATLAB®* or Mathematica®†), web application servers, and six graphical user interface toolkits.
+matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell, web application servers, and six graphical user interface toolkits.
 
 matplotlib tries to make easy things easy and hard things possible. You can generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
 
@@ -46,13 +46,14 @@ We will use pandas extensively throughout the rest of the Foundations and main c
 #### pandas Tutorials
 
 Get Started - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
 Go Deep - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)
 
 ---
 
 ### <a name="section-d"></a>4. Assignments
 
-1. Complete the tutorials for NumPy, pandas and matplotlib.
+1. Complete the tutorials for NumPy, matplotlib and pandas.
 
 ---
 
