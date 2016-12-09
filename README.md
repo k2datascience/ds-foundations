@@ -28,16 +28,16 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 **Phase 2**
   - [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
+  - [Python Data Analysis](content/3-data-analysis.md)
 
 **Phase 3**
- - [Python Data Analysis](content/3-data-analysis.md)
  - [Statistics & Probability](content/3-statistics-probability.md)
-
-**Phase 4**
  - [Linear Algebra](content/3-linear-algebra.md)
  - [Multivariable Calculus](content/4-calculus.md)
 
 **[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
+
+---
 
 **Optional Topics**
 - [Advanced CS Concepts](content/1-cs-concepts.md)

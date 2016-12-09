@@ -26,7 +26,7 @@ A complete review of the Python language from introductory to advanced topics.
 Read the entire book. Complete the 1st exercise at the end of each chapter. The rest are optional, but highly recommended. If you get stuck, review the solution code on the GitHub repository. The "case study" chapters are optional.
 
 #### Reference Option
-- [The Python Tutorial](https://docs.python.org/3/tutorial) is available from the official Python documentation website. It is a good resource if you already know how to program in other languages. It focuses on the Python language and doesn't explain general programming concepts.
+- [The Official Python Tutorial](https://docs.python.org/3/tutorial).
 
 ---
 
@@ -38,11 +38,23 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 
 ### <a name="section-c"></a>3. Projects
 
-Create the following in Python. Try different programming paradigms, such as procedural and object-oriented.
+
+#### Traditional Programming
+
+Create 2 of the following in Python. Try different programming paradigms, such as procedural and object-oriented.
 
 1. [Pig Latin Translator](https://en.wikipedia.org/wiki/Pig_Latin)
 2. [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 3. [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
+
+
+#### Applied Data Science
+
+Tackle 1 of the following in Python.
+
+1. US Births - [Notebook](../code/births.ipynb) and [Data](../code/us_birthsop.csv)
+2. Gun Deaths - [Notebook](../code/deaths.ipynb) and [Data](../code/guns.csv)
+3. (Planned) NYC Subway Turnstiles
 
 ---
 

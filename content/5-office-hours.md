@@ -6,7 +6,7 @@ This page contains links to recorded office hours and live coding solutions of m
 
 - Introduction Presentation - [Video](https://vimeo.com/194430671/ece3b34d91)
 - Development Environment - [Video](https://vimeo.com/194302347/3a64f86606)
-- Python Programming Review [Video](https://vimeo.com/194280066/4ab832b6d3) and [Notebook](../code/intro_to_python.ipynb)
+- Python Programming Review - [Video](https://vimeo.com/194280066/4ab832b6d3) and [Notebook](../code/intro_to_python.ipynb)
 - Pig Latin Translator - [Video](https://vimeo.com/194338026/e0c6a99264) and [Code](../code/pig_latin.py)
 - OOP Reverse Polish Notation Calculator - [Video](https://vimeo.com/194445480/480545abeb) and [Code](../code/rpn_object.py)
 - Functional Reverse Polish Notation Calculator - [Video](https://vimeo.com/194551004/8a3aeb97bf) and [Code](../code/rpn_functional.py)

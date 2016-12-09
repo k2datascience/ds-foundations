@@ -61,15 +61,17 @@ Go Deep - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook
 
 ### <a name="section-d"></a>5. Projects
 
-Download the following Notebooks and accompanying data sets. They have questions for you about the data.
+Complete the Easy notebooks and tackle the other notebooks if you are up for it.
 
-1. Bangalore Weather - Notebook and Data
+#### Easy
+1. College Majors - [Notebook](../code/college.ipynb) and [Data](../code/recent-grads.csv)
+2. Police Killings - [Notebook](../code/police.ipynb) and [Data](../code/police_killings.csv)
 
-2. Lending Club - Notebook and Data
+#### Medium
+1. Bangalore Weather - [Notebook](../code/bangalore.ipynb) and [Data](../code/bangalore_temparature.tsv)
 
-3. College Majors - Notebook and Data
-
-4. Thanksgiving Dinner - Notebook and Data
+#### Hard
+3. Thanksgiving Dinner - [Notebook](../code/thanksgiving.ipynb) and [Data](../code/thanksgiving.csv)
 
 ---
 
