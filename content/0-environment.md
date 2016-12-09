@@ -29,7 +29,7 @@ If you are serious about a career that involves programming, you need to start g
 
 Get Started - [Level Up: Command Line Basics](https://leveluptutorials.com/tutorials/command-line-basics)
 
-*Optional* Comprehensive Overview -  [Learn Enough: Command Line](https://www.learnenough.com/command-line-tutorial)
+(*Optional*) - Comprehensive Overview -  [Learn Enough: Command Line](https://www.learnenough.com/command-line-tutorial)
 
 ---
 
@@ -39,7 +39,7 @@ You will probably spend most of your time with access to a graphical interface, 
 
 Get Started - [Level Up: Atom Text Editor](https://leveluptutorials.com/tutorials/atom-editor-tutorials)
 
-*Optional* Comprehensive Overview -  [Learn Enough: Text Editor](https://www.learnenough.com/text-editor-tutorial)
+(*Optional*) Comprehensive Overview -  [Learn Enough: Text Editor](https://www.learnenough.com/text-editor-tutorial)
 
 ---
 
@@ -49,7 +49,7 @@ Git is a version control system; think of it as a series of snapshots (commits) 
 
 [Introduction to Version Control and the GitHub Desktop App](http://programminghistorian.org/lessons/getting-started-with-github-desktop)
 
-*Optional* Comprehensive Overview - [Learn Enough Git](https://www.learnenough.com/git-tutorial)
+(*Optional*) Comprehensive Overview - [Learn Enough Git](https://www.learnenough.com/git-tutorial)
 
 ---
 
@@ -59,7 +59,7 @@ The Jupyter Notebook is a web application that allows you to create and share do
 
 To start a Jupyter Notebook server, type "jupyter notebook" in a empty folder from your command line.
 
-[Here is a short video tutorial](https://www.youtube.com/watch?v=Rc4JQWowG5I&list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z&index=1&t=670s)
+[A short video tutorial](https://www.youtube.com/watch?v=Rc4JQWowG5I&list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z&index=1&t=670s).
 
 ---
 
