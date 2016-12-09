@@ -27,13 +27,9 @@ Anaconda is the leading data science platform for Python. The open source versio
 
 If you are serious about a career that involves programming, you need to start getting comfortable using the Command Line Interface. It was the main style of inteface for computers before Mice and graphical operating systems were invented. If you are old enough to have used MS-DOS, you know what I'm talking about!
 
-#### Option 1 - Short Video Tutorial
+Get Started - [Level Up: Command Line Basics](https://leveluptutorials.com/tutorials/command-line-basics)
 
-[Level Up: Command Line Basics](https://leveluptutorials.com/tutorials/command-line-basics)
-
-#### Option 2 - Long Text Guide
-
-[Learn Enough: Command Line](https://www.learnenough.com/command-line-tutorial)
+*Optional* Comprehensive Overview -  [Learn Enough: Command Line](https://www.learnenough.com/command-line-tutorial)
 
 ---
 
@@ -41,13 +37,9 @@ If you are serious about a career that involves programming, you need to start g
 
 You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments. We recommend the Atom Text Editor.
 
-#### Option 1 - Short Video Tutorial
+Get Started - [Level Up: Atom Text Editor](https://leveluptutorials.com/tutorials/atom-editor-tutorials)
 
-[Level Up: Atom Text Editor](https://leveluptutorials.com/tutorials/atom-editor-tutorials)
-
-#### Option 2 - Long Text Guide
-
-[Learn Enough: Text Editor](https://www.learnenough.com/text-editor-tutorial)
+*Optional* Comprehensive Overview -  [Learn Enough: Text Editor](https://www.learnenough.com/text-editor-tutorial)
 
 ---
 
@@ -55,23 +47,19 @@ You will probably spend most of your time with access to a graphical interface, 
 
 Git is a version control system; think of it as a series of snapshots (commits) of your code. You see a path of these snapshots, in which order they where created. You can make branches to experiment and come back to snapshots you took. GitHub, is a web app on which you can publish your Git repositories and collaborate with other people.
 
-#### Option 1 - Short Interactive Tutorial
+[Introduction to Version Control and the GitHub Desktop App](http://programminghistorian.org/lessons/getting-started-with-github-desktop)
 
-[Try Git by Code School](https://try.github.io/levels/1/challenges/1)
-
-#### Option 2 - Long Text Guide
-
-[Learn Enough Git](https://www.learnenough.com/git-tutorial)
+*Optional* Comprehensive Overview - [Learn Enough Git](https://www.learnenough.com/git-tutorial)
 
 ---
 
 ### <a name="section-e"></a>5. Jupyter Notebooks
 
-The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
+The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more. You will be using the Jupyter Notebook almost every day of the bootcamp.
 
-You will be using the Jupyter Notebook almost every day of the bootcamp.
+To start a Jupyter Notebook server, type "jupyter notebook" in a empty folder from your command line.
 
-[Quick Start Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html). Jupyter will already be installed with Anaconda, so read chapter 1 and 3.
+[Here is a short video tutorial](https://www.youtube.com/watch?v=Rc4JQWowG5I&list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z&index=1&t=670s)
 
 ---
 
