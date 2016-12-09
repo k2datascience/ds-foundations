@@ -52,7 +52,7 @@ Create 2 of the following in Python. Try different programming paradigms, such a
 
 Tackle 1 of the following in Python.
 
-1. US Births - [Notebook](../code/births.ipynb) and [Data](../code/us_birthsop.csv)
+1. US Births - [Notebook](../code/births.ipynb) and [Data](../code/us_births.csv)
 2. Gun Deaths - [Notebook](../code/deaths.ipynb) and [Data](../code/guns.csv)
 3. (Planned) NYC Subway Turnstiles
 
