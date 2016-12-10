@@ -9,9 +9,11 @@ Learn how to acquire data from APIs and websites. Then, move on to storing and r
 
 [3. SQL and Databases](#section-c)
 
-[4. Assignments](#section-d)
+[4. Regex](#section-d)
 
-[5. Projects](#section-d)
+[5. Assignments](#section-e)
+
+[6. Projects](#section-f)
 
 ---
 
@@ -116,7 +118,17 @@ We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQL
 
 ---
 
-### <a name="section-d"></a>4. Assignments
+### <a name="section-d"></a>4. Regular Expression
+
+In theoretical computer science and formal language theory, a regular expression (sometimes called a rational expression) is a sequence of characters that define a search pattern, mainly for use in pattern matching with strings, or string matching, i.e. "find and replace"-like operations. The concept arose in the 1950s, when the American mathematician Stephen Kleene formalized the description of a regular language, and came into common use with the Unix text processing utilities ed, an editor, and grep, a filter.
+
+Regexes are so useful in computing that the various systems to specify regexes have evolved to provide both a basic and extended standard for the grammar and syntax; modern regexes heavily augment the standard. Regex processors are found in several search engines, search and replace dialogs of several word processors and text editors, and in the command lines of text processing utilities, such as sed and AWK.
+
+You will often use it when processing text data. Try it with some of the scraping and API challenges later. Here is a [basic tutorial for regex](https://regexone.com/).
+
+---
+
+### <a name="section-e"></a>5. Assignments
 
 1. Review all the API learning resources and complete the tutorial.
 
@@ -126,9 +138,11 @@ We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQL
 
 4. Complete the SQLite tutorial.
 
+4. Complete the Regex tutorial.
+
 ---
 
-### <a name="section-e"></a>5. Projects
+### <a name="section-f"></a>6. Projects
 
 Complete 2 projects. One about APIs and the other about scraping. Feel free to investigate the data similar to the Mode Analytics Training tasks and detail your findings.
 
