@@ -11,8 +11,10 @@ This page contains links to recorded office hours and live coding solutions of m
 - OOP Reverse Polish Notation Calculator - [Video](https://vimeo.com/194445480/480545abeb) and [Code](../code/rpn_object.py)
 - Functional Reverse Polish Notation Calculator - [Video](https://vimeo.com/194551004/8a3aeb97bf) and [Code](../code/rpn_functional.py)
 - Procedural Blackjack - [Video](https://vimeo.com/194279967/26c301a941) and [Code](../code/blackjack_procedural.py)
-- OOP Blackjack (Dec. 9th)
-- API/SQL Project - [Video](https://vimeo.com/194801926/3c0d67b8e7) and [Notebook](../code/api-sql-githubjobs.ipynb)
+- OOP Blackjack
+- Applied Python
+- API/SQL Office Hours - [Video](https://vimeo.com/194801926/3c0d67b8e7) and [Notebook](../code/api-sql-githubjobs.ipynb)
+- Python for Data Analysis
 - Statistics & Probability (Dec. 16)
 - Linear Algebra (Dec. 23)
 - Multivariable Calculus (Dec. 23)

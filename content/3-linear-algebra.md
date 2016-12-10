@@ -28,7 +28,7 @@ We found the coverage of Linear Algebra at Khan Academy to be sufficient enough 
 
 ### <a name="section-b"></a>2. Refresher
 
-If you prefer an abridged text summary of the same topics, here is [a set of notes](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_notes.pdf) by Zico Kolter from Carnegie Mellon. The last section is on "Matrix Calculus", which is not usually covered in college classes. It is useful to review in preparation for the bootcamp.
+If you prefer an abridged text summary of the same topics, here is [a set of notes](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_notes.pdf) by Zico Kolter from Carnegie Mellon. The last section is on "Matrix Calculus", which is not usually covered in college classes. The combination of Linear Algebra and Calculus for the basis understanding many optimization algorithms.
 
 ---
 

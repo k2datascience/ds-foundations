@@ -124,27 +124,38 @@ We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQL
 
 3. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/) as well as the Basic, Intermediate, Advanced and Analytics training section [at Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
 
-4. Complete the SQLite tutorials.
+4. Complete the SQLite tutorial.
 
 ---
 
 ### <a name="section-e"></a>5. Projects
 
-Complete 2 projects. One to about APIs and the other about scraping. Store all the data in SQLite. Investigate the data similar to the Mode SQL Analytics Training tasks and detail your findings.
+Complete 2 projects. One about APIs and the other about scraping. Feel free to investigate the data similar to the Mode Analytics Training tasks and detail your findings.
+
+#### API Projects
+
+1. GitHub Jobs
+2. (Planned) Reddit
+
 
 #### Scraping Projects
 
-1. Scrape your alma mater for class schedule information: which classes are being taught, broken down by department and course number; by which professors; at which times on which days. *(It may be easier to start with the department of your major first)*
-2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
-3. Scrape the listings of your favorite online store.
-4. Do you own project.
+1. American Federation of Labor - Scrape the [Legislative Alerts](http://www.aflcio.org/Legislation-and-Politics/Legislative-Alerts) for the most recent year. Store the title, the link URL and the date. Decide which data structure would be best and export your final data to a [pickle object](https://docs.python.org/3/library/pickle.html). *Extra challenge: Build a program that can extract all the alerts from all the years in the drop-down.*
+2. National Weather Service - Scrape your [local weather](http://forecast.weather.gov/MapClick.php?lat=40.7142&lon=-74.0059) forecast. You should be able to retrieve each item in the extended forecast. Try to extract the longer weather description for each forecast. Decide which data structure would best and export your final data to a [pickle object](https://docs.python.org/3/library/pickle.html).. *Extra challenge: Build a program that can extract the extended forecast from the 3 largest cities near you.*
 
-#### API Projects
+#### Optional API Projects
 
 1. Sign up for the [Dark Sky API](https://darksky.net/dev/). Gather the daily weather forecasts for the city you live in during the entire year of 2015. Store the weather observation, the minimum temperature, the maximum temperature, humidity, dew point, wind speed and precipitation accumulation.
 2. Sign up for the [Twitter API](https://dev.twitter.com/rest/public/search). Gather the last 100 tweets from your top 20 favorite actors, athletes, comedians, musicians, or other celebrities and public figures.
 3. Sign up for the [YouTube API](https://developers.google.com/youtube/) or [SoundCloud API](https://developers.soundcloud.com/). Find the 10 most popular songs for your 5 favorite artists. Rank the songs by number of plays, listens or views.
 4. If you want to design your own project, check out the following links for interesting APIs: [Reddit thread](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/), [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/) or [Mashape](https://market.mashape.com/).
+
+#### Optional Scraping Projects
+
+1. Scrape your alma mater for class schedule information: which classes are being taught, broken down by department and course number; by which professors; at which times on which days. *(It may be easier to start with the department of your major first)*
+2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
+3. Scrape the listings of your favorite online store.
+4. Do you own project.
 
 ---
 

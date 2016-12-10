@@ -39,7 +39,7 @@ Read the entire book. Complete the 1st exercise at the end of each chapter. The 
 ### <a name="section-c"></a>3. Projects
 
 
-#### Traditional Programming
+#### Traditional Python
 
 Create 2 of the following in Python. Try different programming paradigms, such as procedural and object-oriented.
 
@@ -48,7 +48,7 @@ Create 2 of the following in Python. Try different programming paradigms, such a
 3. [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
 
 
-#### Applied Data Science
+#### Applied Python
 
 Tackle 1 of the following in Python.
 
