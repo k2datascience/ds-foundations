@@ -13,8 +13,8 @@ This page contains links to recorded office hours and live coding solutions of m
 - Procedural Blackjack - [Video](https://vimeo.com/194279967/26c301a941) and [Code](../code/blackjack_procedural.py)
 - OOP Blackjack
 - Applied Python
-- API/SQL Office Hours - [Video](https://vimeo.com/194801926/3c0d67b8e7) and [Notebook](../code/api-sql-githubjobs.ipynb)
 - Python for Data Analysis
+- API/SQL Project - [Video](https://vimeo.com/195076046/7cc67e415e) and [Notebook](../code/api-sql-githubjobs.ipynb)
 - Statistics & Probability (Dec. 16)
 - Linear Algebra (Dec. 23)
 - Multivariable Calculus (Dec. 23)
