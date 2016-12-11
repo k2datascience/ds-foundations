@@ -13,12 +13,12 @@ A complete review of the Python language from introductory to advanced topics.
 
 ### <a name="section-a"></a>1. Course Options
 
-#### Introductory Option - Carnegie Mellon MOOC
+#### Introductory Option
 ###### (4 - 6 hours, Easy)
 
-[Principles of Computing with Python](https://oli.cmu.edu/courses/free-open/computing-course-details/). The course is free and self-paced. This course does not cover object-oriented programming, so be sure to [review it](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
+[Principles of Computing with Python](https://oli.cmu.edu/courses/free-open/computing-course-details/) from Carnegie Mellon. The course is free and self-paced. This course does not cover object-oriented programming, so be sure to [review it](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/).
 
-#### Experienced Option - Think Python
+#### Experienced Option
 ###### (6 - 10 hours, Medium)
 
 [Think Python](http://greenteapress.com/wp/think-python-2e/) is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.

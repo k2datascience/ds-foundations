@@ -15,20 +15,21 @@ You need to have a strong understanding of college-level statistics and probabil
 
 ### <a name="section-a"></a>1. Study Options
 
-#### Review Option - Summaries
+#### Review Option
 ###### (1 - 2 hours)
 
 Here is a review sheet about [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf) and one about [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf).
 
 *Note: We mostly focus on statistical learning methods in our curriculum*
 
-#### Comprehensive Option - Khan Academy
+#### Comprehensive Option
 ###### (5 - 12 hours)
 
-[Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). The material is free and self-paced.
+[Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy. The material is free and self-paced.
 
 #### Reference Option
-- [Statistics 3rd Edition Textbook](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
+
+[Statistics 3rd Edition Textbook](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
 
 ---
 
@@ -40,7 +41,7 @@ Work your way through these 3 presentations and code along in Python when applic
 
 1. [Statistical Modeling](https://s3.amazonaws.com/ds-foundations/resources/slides-stat-modelling.pdf)
 2. [Correlations](https://s3.amazonaws.com/ds-foundations/resources/slides-correlations.pdf)
-3. *Optional* - [Monte Carlo Analysis]()https://s3.amazonaws.com/ds-foundations/resources/slides-monte-carlo.pdf
+3. *Optional* - [Monte Carlo Analysis](https://s3.amazonaws.com/ds-foundations/resources/slides-monte-carlo.pdf)
 
 ---
 
