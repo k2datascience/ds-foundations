@@ -108,13 +108,13 @@ A database is a collection of tables, where each table is made up of rows of dat
 
 #### Querying
 
-SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. Its easy to read syntax makes it more English-like than programming languages. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/). For a thorough review of all topics, Mode Analytics provides a [comprehensive tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
+SQL is the most popular database querying language on the web. A SQL query has to adhere to a defined structure and vocabulary that we use to define what we want the database to do. The SQL language has a set of general statements that you combine with specific logic to express the intent of that query. Its easy to read syntax makes it more English-like than programming languages. You can learn more about basic querying and SQL commands [here at SQLBolt](https://sqlbolt.com/).
 
 #### Databases
 
-There are many different implementations of Relational Database Management Systems. Read a comparison of the [3 most popular systems here](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).
+There are many different implementations of Relational Database Management Systems. We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQLite in Python](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html).
 
-We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQLite in Python](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html).
+*Optional - You can read a comparison about the [3 most popular systems here](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).*
 
 ---
 

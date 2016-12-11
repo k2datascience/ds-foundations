@@ -5,9 +5,11 @@ You need to have a strong understanding of college-level statistics and probabil
 ## Table of Contents
 [1. Study Options](#section-a)
 
-[2. Additional Topics](#section-b)
+[2. Applied Python](#section-b)
 
-[3. Assignments](#section-c)
+[3. Additional Topics](#section-c)
+
+[4. Assignments](#section-d)
 
 ---
 
@@ -30,22 +32,32 @@ Here is a review sheet about [Statistics from MIT](https://s3.amazonaws.com/ds-f
 
 ---
 
-### <a name="section-b"></a>2. Additional Topics
+### <a name="section-b"></a>2. Applied Python
 
-#### A/B Testing
-- [A Simple Introduction of A/B Testing](https://www.optimizely.com/ab-testing/)
-- [Experiments at Airbnb](http://nerds.airbnb.com/experiments-at-airbnb/)
-- [When should A/B testing not be trusted to make decisions?](https://www.quora.com/When-should-A-B-testing-not-be-trusted-to-make-decisions/answer/Edwin-Chen-1?srid=sL8&share=1)
+To implement statistics in Python, we will be utilizing `numpy` and the `SciPy` packages. `SciPy` has a special submodule called `scipy.stats` that has several intermediate to advanced numerical implementations of statistics and probability.
 
-#### Multi-Armed Bandit
-- [Multi-armed bandits overview](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits)
-- [Multi-armed bandit experiments](https://support.google.com/analytics/answer/2844870?hl=en)
+Work your way through these 3 presentations and code along in Python when applicable:
+
+1. [Statistical Modeling](https://s3.amazonaws.com/ds-foundations/resources/slides-stat-modelling.pdf)
+2. [Correlations](https://s3.amazonaws.com/ds-foundations/resources/slides-correlations.pdf)
+3. *Optional* - [Monte Carlo Analysis]()https://s3.amazonaws.com/ds-foundations/resources/slides-monte-carlo.pdf
 
 ---
 
-### <a name="section-c"></a>3. Assignments
+### <a name="section-c"></a>3. Additional Topics
+
+#### A/B Testing
+- [A Simple Introduction of A/B Testing](https://www.optimizely.com/ab-testing/)
+
+#### Multi-Armed Bandit
+- [Multi-armed bandits overview](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits)
+
+---
+
+### <a name="section-d"></a>d. Assignments
 
 1. Complete 1 of the course options.
+2. Go through the presentations about SciPy and code along in a local Jupyter notebook.
 2. Read through the additional topics.
 
 ---
