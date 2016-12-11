@@ -3,7 +3,7 @@
 You need to have a strong understanding of college-level statistics and probability. *If you have a preferred resource or textbook, feel free to use that.*
 
 ## Table of Contents
-[1. Course Options](#section-a)
+[1. Study Options](#section-a)
 
 [2. Additional Topics](#section-b)
 
@@ -11,29 +11,22 @@ You need to have a strong understanding of college-level statistics and probabil
 
 ---
 
-### <a name="section-a"></a>1. Course Options
+### <a name="section-a"></a>1. Study Options
 
-#### Introductory Option - Stanford MOOC
-###### (3 - 6 hours, Easy)
+#### Review Option - Summaries
+###### (1 - 2 hours)
 
-Stanford Online Lagunita's [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about). This course is free and self-paced.
+Here is a review sheet about [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf) and one about [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf).
 
-#### Experienced Option - Khan Academy
-###### (5 - 12 hours, Medium)
+*Note: We mostly focus on statistical learning methods in our curriculum*
+
+#### Comprehensive Option - Khan Academy
+###### (5 - 12 hours)
 
 [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability). The material is free and self-paced.
 
-#### Experienced Option with Python - Think Stats
-###### (5 - 12 hours, Medium)
-
-[Think Stats](http://greenteapress.com/wp/think-stats-2e/) is an introduction to Probability and Statistics for Python programmers.
-
-Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
-
-If you have basic skills in Python, you can use them to learn concepts in probability and statistics.Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding.
-
 #### Reference Option
-- [Statistics 3rd Edition](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
+- [Statistics 3rd Edition Textbook](https://www.openintro.org/stat/textbook.php?stat_book=os). The textbook is free and self-paced. There are several practice problems and accompanying data sets to dig into.
 
 ---
 

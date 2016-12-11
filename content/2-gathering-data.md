@@ -94,7 +94,7 @@ Web scraping is closely related to web indexing, which indexes information on th
 
 #### Beautiful Soup Documentation
 
-Beautiful Soup is the web scraping Python library that you will use during the bootcamp. Please go through its [official documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
+Beautiful Soup is the web scraping Python library that you will use during the bootcamp. Please go through the [quick start guide and and venture futher into the documentaion](https://www.crummy.com/software/BeautifulSoup/bs4/doc).
 
 ---
 
@@ -134,7 +134,7 @@ You will often use it when processing text data. Try it with some of the scrapin
 
 2. Complete the web scraping tutorial about BeautifulSoup.
 
-3. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/) as well as the Basic, Intermediate, Advanced and Analytics training section [at Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/).
+3. Complete all the lessons of [SQL Bolt](https://sqlbolt.com/). *If you find this interesting, [Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/) has more advanced SQL training.*
 
 4. Complete the SQLite tutorial.
 
@@ -169,7 +169,6 @@ Complete 2 projects. One about APIs and the other about scraping. Feel free to i
 1. Scrape your alma mater for class schedule information: which classes are being taught, broken down by department and course number; by which professors; at which times on which days. *(It may be easier to start with the department of your major first)*
 2. Scrape the reviews from a category of apps in the Google Play store: the review author, the date, the star rating, the bold review title, and the review text.
 3. Scrape the listings of your favorite online store.
-4. Do you own project.
 
 ---
 
