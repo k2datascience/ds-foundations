@@ -114,8 +114,6 @@ SQL is the most popular database querying language on the web. A SQL query has t
 
 There are many different implementations of Relational Database Management Systems. We will focus on SQLite so you can get up-and-running quickly - [tutorial of SQLite in Python](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html).
 
-*Optional - You can read a comparison about the [3 most popular systems here](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).*
-
 ---
 
 ### <a name="section-d"></a>4. Regular Expression
