@@ -55,7 +55,7 @@ Work your way through these 3 presentations and code along in Python when applic
 
 ---
 
-### <a name="section-d"></a>d. Assignments
+### <a name="section-d"></a>4. Assignments
 
 1. Complete 1 of the course options.
 2. Go through the presentations about SciPy and code along in a local Jupyter notebook.
