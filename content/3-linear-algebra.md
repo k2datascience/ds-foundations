@@ -32,7 +32,7 @@ The coverage of Linear Algebra at Khan Academy does a good job of illustrating m
 ### <a name="section-b"></a>2. Assignments
 
 1. Make sure you have reviewed all the concepts.
-2. (Optional) If you want to test your knowledge, complete the questions in this [Linear Algebra practice problem set](https://s3.amazonaws.com/ds-foundations/resources/LinearAlgebraQuestions.pdf).
+2. *(Optional) If you want to test your knowledge, complete the questions in this [Linear Algebra practice problem set](https://s3.amazonaws.com/ds-foundations/resources/LinearAlgebraQuestions_shortened.pdf).*
 
 ---
 

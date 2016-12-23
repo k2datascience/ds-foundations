@@ -59,7 +59,8 @@ Work your way through these 3 presentations and code along in Python when applic
 
 1. Complete 1 of the course options.
 2. Go through the presentations about SciPy and code along in a local Jupyter notebook.
-2. Read through the additional topics.
+3. Read through the additional topics.
+4. *(Optional) Explore the Titanic Data Set - [Notebook](../code/titanic.ipynb) and [Data](../code/titanic.csv)*
 
 ---
 
