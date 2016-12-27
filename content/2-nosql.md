@@ -1,4 +1,4 @@
-# NoSQL Databases and Web Scraping
+# NoSQL Databases
 
 We explore non-relational databases.
 
