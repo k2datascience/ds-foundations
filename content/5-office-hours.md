@@ -17,5 +17,9 @@ This page contains links to recorded office hours and live coding solutions of m
 - Web Scraping - [National Weather Service Video](https://vimeo.com/195134726/72555404a5)
 - Python for Data Analysis - [College Majors Video](https://vimeo.com/195232886/921635ebee), [Police Video](https://vimeo.com/195533388/69328a971b), [Bangalore Weather Notebook](../code/bangalore-weather-solutions.ipynb), [Introduction to pandas Notebook](../code/pandas_quickstart.ipynb) with [Baseball Data](../code/baseball.csv), and [Thanksgiving Office Hours](https://vimeo.com/196199669/a2ad7b0536)
 - Statistics & Probability - [Descriptive Statistics](../code/basic_statistics/Descriptive_Statistics.ipynb), [Probability Distributions](../code/basic_statistics/Probability_Distributions.ipynb), and [Point Estimates and Confidence Intervals](../code/basic_statistics/Estimates_Intervals.ipynb). Statistical Inference is a unit in the core curriculum.
-- Linear Algebra (TBD)
-- Multivariable Calculus (TBD)
+- Linear Algebra - [Review Notebook](../code/Math/linear_algebra.ipynb)
+- Multivariable Calculus - [Review Notebook](../code/Math/calculus.ipynb)
+
+## Extra Books
+
+- Office Hours: [SQLite and Youtube API example](../code/dec_28th.ipynb)
