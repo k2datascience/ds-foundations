@@ -11,7 +11,7 @@ Learn Python modules that make data analysis and visualization easy.
 
 [4. Assignments](#section-d)
 
-[5. Assignments](#section-e)
+[5. Projects](#section-e)
 
 ---
 
@@ -59,7 +59,7 @@ Go Deep - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook
 
 ---
 
-### <a name="section-d"></a>5. Projects
+### <a name="section-e"></a>5. Projects
 
 Complete the Easy notebooks and tackle the other notebooks if you are up for it.
 
