@@ -65,13 +65,13 @@ Complete the Easy notebooks and tackle the other notebooks if you are up for it.
 
 #### Easy
 1. College Majors - [Notebook](../code/college.ipynb) and [Data](../code/recent-grads.csv)
-2. Police Killings - [Notebook](../code/police.ipynb) and [Data](../code/police_killings.csv)
+2. Police Killings - [Notebook](../code/police.ipynb) and [Data](../code/police_killings.csv) (encoded in `ISO-8859-1`)
 
 #### Medium
-1. Bangalore Weather - [Notebook](../code/bangalore.ipynb) and [Data](../code/bangalore_temparature.tsv)
+1. Bangalore Weather - [Notebook](../code/bangalore.ipynb) and [Data](../code/bangalore_temparature.tsv) (tab separated file)
 
 #### Hard
-3. Thanksgiving Dinner - [Notebook](../code/thanksgiving.ipynb) and [Data](../code/thanksgiving.csv)
+3. Thanksgiving Dinner - [Notebook](../code/thanksgiving.ipynb) and [Data](../code/thanksgiving.csv) (encoded in `Latin-1`)
 
 ---
 
