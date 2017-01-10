@@ -40,8 +40,6 @@ The Foundations program is a curated list of books, tutorials and other resource
 ---
 
 **Optional Topics**
-- [Advanced CS Concepts](content/1-cs-concepts.md)
-- [NoSQL Databases](content/2-nosql.md)
 - [Web Development](content/2-flask.md)
 - [Bayesian Analysis](content/4-bayesian-analysis.md)
 - [Optimization Theory](content/4-optimization-theory.md)
