@@ -21,7 +21,9 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 
 #### NumPy Tutorials
 
-Get Started - [Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+On vectorization and why NumPy is fast - [What is NumPy?](https://docs.scipy.org/doc/numpy-dev/user/whatisnumpy.html)
+
+Get to coding - [Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
 ---
 
