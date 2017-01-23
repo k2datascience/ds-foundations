@@ -50,14 +50,27 @@ The Foundations program is a curated list of books, tutorials and other resource
 - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
 
 **Exercises**
-**Check if right notebook***************************************88
-1. Explore the Titanic Data Set - [Notebook](/code/titanic.ipynb) and [Data](/code/titanic.csv)
+1. Explore the Titanic Data Set - [Notebook](https://s3.amazonaws.com/ds-curriculum/statistical-inference/Titanic/Titanic_Exercises.ipynb) and [Data](/code/titanic.csv)
 
 #### Linear Algebra
-- [Linear Algebra](content/3-linear-algebra.md)
+**Review**
+- [4 Page Summary](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_4.pdf) or [25 minute Video Review](https://www.youtube.com/watch?v=ZumgfOei0Ak)
+
+**Learn**
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) from Khan Academy
+
+**Exercises**
+1. NumPy Workbook
 
 #### Calculus
-- [Multivariable Calculus](content/4-calculus.md)
+**Review**
+- [Calculus Summary](https://s3.amazonaws.com/ds-foundations/resources/Calculus_Summary.pdf) by Professor Glenn Ledder at UNL.
+
+**Learn**
+- [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. If you have time, dig into Multivariable Calculus, specifically derivatives of multivariable functions and optimization functions.
+
+**Exercises**
+1. Sympy Workbook
 
 
 **[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
