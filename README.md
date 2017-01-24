@@ -48,14 +48,8 @@ The Foundations program is a curated list of books, tutorials and other resource
 - **Learn:** [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. *(Optional)* Multivariable Differentiation.
 - **Practice:** [SymPy Workbook](https://s3.amazonaws.com/ds-foundations/exercises/calculus_exercises.ipynb)
 
----
 
-**[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
-
-**Optional Topics**
-- [Web Development](content/2-flask.md)
-- [Bayesian Analysis](content/4-bayesian-analysis.md)
-- [Optimization Theory](content/4-optimization-theory.md)
+#### [Recorded Office Hours and Solutions](/content/5-office-hours.md)**
 
 ---
 
