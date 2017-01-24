@@ -12,7 +12,7 @@
 
 ---
 
-## <a name="section-a"></a>1.  Foundations Program
+## <a name="section-a"></a>Foundations Program
 
 The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
 
@@ -25,18 +25,21 @@ The Foundations program is a curated list of books, tutorials and other resource
   - Read [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps)
 
 ### Step 2 - Computer Science and Python Programming
-
 **Introduction to Computer Science** - [Harvard CS50](https://cs50.harvard.edu/)
 **Python Programming** - [Udacity's Introduction to Programming](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
 **Exercises**
 1. Procedural and OOP Version of the [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
-1. Analysis of US Births - [Notebook](/code/births.ipynb) and [Data](/code/us_births.csv)
-2. Analysis of Gun Deaths - [Notebook](/code/deaths.ipynb) and [Data](/code/guns.csv)
+2. Analysis of US Births - [Notebook](/code/births.ipynb) and [Data](/code/us_births.csv)
+3. Analysis of Gun Deaths - [Notebook](/code/deaths.ipynb) and [Data](/code/guns.csv)
 
 ### Step 3 - Getting, Storing and Analyzing Data
-  - [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
-  - [Python Data Analysis](content/3-data-analysis.md)
+- [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
+- [Python Data Analysis](content/3-data-analysis.md)
+
+**Exercises**
+1. Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Python_for_DS_Coding_Lab.zip).
+2. Complete assignments on the API/Scraping/Sql and Python Data Analysis pages.
 
 ### Step 4 - Mathematics Refresher
 
@@ -50,7 +53,8 @@ The Foundations program is a curated list of books, tutorials and other resource
 - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
 
 **Exercises**
-1. Explore the Titanic Data Set - [Notebook](https://s3.amazonaws.com/ds-curriculum/statistical-inference/Titanic/Titanic_Exercises.ipynb) and [Data](/code/titanic.csv)
+1. Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Statistics_Coding_Lab.zip).
+2. Explore the Titanic Data Set - [Notebook](https://s3.amazonaws.com/ds-curriculum/statistical-inference/Titanic/Titanic_Exercises.ipynb) and [Data](/code/titanic.csv)
 
 #### Linear Algebra
 **Review**
@@ -60,7 +64,7 @@ The Foundations program is a curated list of books, tutorials and other resource
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) from Khan Academy
 
 **Exercises**
-1. NumPy Workbook
+1. NumPy Workbook (Coming Soon)
 
 #### Calculus
 **Review**
@@ -70,12 +74,11 @@ The Foundations program is a curated list of books, tutorials and other resource
 - [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. If you have time, dig into Multivariable Calculus, specifically derivatives of multivariable functions and optimization functions.
 
 **Exercises**
-1. Sympy Workbook
-
-
-**[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
+1. SymPy Workbook (Coming Soon)
 
 ---
+
+**[Recorded Office Hours and Solutions](/content/5-office-hours.md)**
 
 **Optional Topics**
 - [Web Development](content/2-flask.md)
@@ -84,17 +87,17 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 ---
 
-## <a name="section-b"></a>2. Submitting Work
+## <a name="section-b"></a>Submitting Work
 
 Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
 
 1. Create a local Git repository called "foundations"
 2. Complete assignments and projects
-3. Commit changes to the local repository and push them to an online GitHub repository
+3. Commit changes to the local repository and push them to a remote GitHub repository
 4. A TA will check your work weekly and give feedback when necessary
 
 ---
 
-## <a name="section-c"></a>3. Questions
+## <a name="section-c"></a>Questions
 
 If anything is unclear or you get stuck, [please reach out immediately](<mailto:hello@k2datascience.com>). The program was created by data scientists and machine learning engineers. We have a biased view of which concepts should be learned in which order. We have tried to put ourselves in your shoes, but there is always room for improvement!
