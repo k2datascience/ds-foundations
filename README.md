@@ -2,17 +2,7 @@
 
 # [K2](http://www.k2datascience.com/) Foundations Program
 
-# Table of Contents
-
-[1. Foundations Program](#section-a)
-
-[2. Submitting Work](#section-b)
-
-[3. Questions](#section-c)
-
----
-
-## <a name="section-a"></a>Foundations Program
+## <a name="section-a"></a>Overview
 
 The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
 
@@ -25,32 +15,29 @@ The Foundations program is a curated list of books, tutorials and other resource
   - Read [Doing Data Science](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.qfovgm9ps)
 
 ### Step 2 - Computer Science and Python Programming
-**Introduction to Computer Science** - [Harvard CS50](https://cs50.harvard.edu/)
-**Python Programming** - [Udacity's Introduction to Programming](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- **Introduction to Computer Science** - [Harvard CS50](https://cs50.harvard.edu/)
+- **Python Programming** - [Udacity's Introduction to Programming](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
 **Exercises**
-1. Procedural and OOP Version of the [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
-2. Analysis of US Births - [Notebook](/code/births.ipynb) and [Data](/code/us_births.csv)
-3. Analysis of Gun Deaths - [Notebook](/code/deaths.ipynb) and [Data](/code/guns.csv)
+- Procedural and OOP Version of the [Blackjack Game](https://en.wikipedia.org/wiki/Blackjack)
+- Analysis of US Births - [Notebook](/code/births.ipynb) and [Data](/code/us_births.csv)
+- Analysis of Gun Deaths - [Notebook](/code/deaths.ipynb) and [Data](/code/guns.csv)
 
 ### Step 3 - Getting, Storing and Analyzing Data
 - [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
 - [Python Data Analysis](content/3-data-analysis.md)
 
 **Exercises**
-1. Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Python_for_DS_Coding_Lab.zip).
-2. Complete assignments on the API/Scraping/Sql and Python Data Analysis pages.
+- Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Python_for_DS_Coding_Lab.zip).
+- Complete assignments on the API/Scraping/Sql and Python Data Analysis pages.
 
 ### Step 4 - Mathematics Refresher
 
 #### Statistics & Probability
 
-**Review**
-- [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf)
-- [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf).
+**Review:** [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf) and [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf)
 
-**Learn**
-- [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
+**Learn:** [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
 
 **Exercises**
 1. Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Statistics_Coding_Lab.zip).
