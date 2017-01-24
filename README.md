@@ -49,18 +49,19 @@ The Foundations program is a curated list of books, tutorials and other resource
 - **Practice:** [SymPy Workbook](https://s3.amazonaws.com/ds-foundations/exercises/calculus_exercises.ipynb)
 
 
-#### [Recorded Office Hours and Solutions](/content/5-office-hours.md)**
+
 
 ---
 
 ## <a name="section-b"></a>Submitting Work
 
-Once you have completed all the content in Week 0, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
+Once you have completed all the content in Step 1, you should understand how to use Git/GitHub. These are the steps you should follow to submit work:
 
 1. Create a local Git repository called "foundations"
 2. Complete assignments and projects
 3. Commit changes to the local repository and push them to a remote GitHub repository
 4. A TA will check your work weekly and give feedback when necessary
+5. Feel free to check out the [recorded Office Hours and Solutions](/content/5-office-hours.md)
 
 ---
 
