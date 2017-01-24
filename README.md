@@ -41,12 +41,12 @@ The Foundations program is a curated list of books, tutorials and other resource
 #### Linear Algebra
 - **Review:** [4 Page Summary](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_4.pdf) or [25 minute Video Review](https://www.youtube.com/watch?v=ZumgfOei0Ak)
 - **Learn:** [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) from Khan Academy
-- **Practice:** NumPy Workbook (Coming Soon)
+- **Practice:** [NumPy Workbook](https://s3.amazonaws.com/ds-foundations/exercises/linear_algebra_exercises.ipynb)
 
 #### Calculus
 - **Review:** [Calculus Summary](https://s3.amazonaws.com/ds-foundations/resources/Calculus_Summary.pdf) by Professor Glenn Ledder at UNL.
 - **Learn:** [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. *(Optional)* Multivariable Differentiation.
-- **Practice:** SymPy Workbook (Coming Soon)
+- **Practice:** [SymPy Workbook](https://s3.amazonaws.com/ds-foundations/exercises/calculus_exercises.ipynb)
 
 ---
 

@@ -7,7 +7,7 @@ This page contains links to recorded office hours and live coding solutions of m
 - Introduction Presentation - [Video](https://vimeo.com/194430671/ece3b34d91)
 - Development Environment - [Video](https://vimeo.com/194302347/3a64f86606)
 - Python Programming Review - [Video](https://vimeo.com/196889907/292c8057d6)
-- Pig Latin Translator - [Video](https://vimeo.com/196911299/c9e5ab62b6) 
+- Pig Latin Translator - [Video](https://vimeo.com/196911299/c9e5ab62b6)
 - Functional Reverse Polish Notation Calculator - [Video](https://vimeo.com/198697316/feed140ec6)
 - Procedural Blackjack - [Video](https://vimeo.com/198782373/f4c4ab684b)
 - OOP Blackjack - [Code](../code/blackjack_oop.py)
