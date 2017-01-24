@@ -146,9 +146,7 @@ Complete 2 projects. One about APIs and the other about scraping. Feel free to i
 
 #### API Projects
 
-1. GitHub Jobs - Explore the GitHub Jobs API and store the data in a local SQLite database. Then, execute a few queries to examine the jobs. [Notebook](../code/github-jobs.ipynb).
-2. (Planned) Open Weather
-
+1. GitHub Jobs - Explore the GitHub Jobs API and store the data in a local SQLite database. Then, execute a few queries to examine the jobs. [Notebook](../code/simple_github_exercises.ipynb).
 
 #### Scraping Projects
 
