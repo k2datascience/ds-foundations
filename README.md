@@ -29,29 +29,24 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 **Exercises**
 - Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Python_for_DS_Coding_Lab.zip).
-- Complete assignments on the API/Scraping/Sql and Python Data Analysis pages.
+- Complete assignments on the API/Scraping/SQL and Python Data Analysis pages.
 
 ### Step 4 - Mathematics Refresher
 
 #### Statistics & Probability
-
-**Review:** [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf) and [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf)
-
-**Learn:** [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
+- **Review:** [Statistics from MIT](https://s3.amazonaws.com/ds-foundations/resources/stats_handout.pdf) and [Probability from William Chen](https://s3.amazonaws.com/ds-foundations/resources/prob_handout.pdf)
+- **Learn:** [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) from Khan Academy or [Statistics](https://www.udacity.com/course/statistics--st095) from Udacity
 
 **Exercises**
-1. Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Statistics_Coding_Lab.zip).
-2. Explore the Titanic Data Set - [Notebook](https://s3.amazonaws.com/ds-curriculum/statistical-inference/Titanic/Titanic_Exercises.ipynb) and [Data](/code/titanic.csv)
+- Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Statistics_Coding_Lab.zip).
+- Explore the Titanic Data Set - [Notebook](https://s3.amazonaws.com/ds-curriculum/statistical-inference/Titanic/Titanic_Exercises.ipynb) and [Data](/code/titanic.csv)
 
 #### Linear Algebra
-**Review**
-- [4 Page Summary](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_4.pdf) or [25 minute Video Review](https://www.youtube.com/watch?v=ZumgfOei0Ak)
-
-**Learn**
-- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) from Khan Academy
+- **Review:** [4 Page Summary](https://s3.amazonaws.com/ds-foundations/resources/linear_algebra_4.pdf) or [25 minute Video Review](https://www.youtube.com/watch?v=ZumgfOei0Ak)
+- **Learn:** [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) from Khan Academy
 
 **Exercises**
-1. NumPy Workbook (Coming Soon)
+- NumPy Workbook (Coming Soon)
 
 #### Calculus
 **Review**
