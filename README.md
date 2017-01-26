@@ -22,12 +22,12 @@ The Foundations program is a curated list of books, tutorials and other resource
   - Analysis of US Births - [Notebook](/code/births.ipynb) and [Data](/code/us_births.csv)
   - Analysis of Gun Deaths - [Notebook](/code/deaths.ipynb) and [Data](/code/guns.csv)
 
-### Step 3 - Getting, Storing and Analyzing Data
-- [APIs, Web Scraping and SQL Databases](content/2-gathering-data.md)
+### Step 3 - Storing and Analyzing Data
+- [SQL and Relational Databases](content/2-gathering-data.md)
 - [Python Data Analysis](content/3-data-analysis.md)
 - **Practice:**
   - Go through this [set of Jupyter Notebooks](https://s3.amazonaws.com/ds-foundations/notebook-archives/Python_for_DS_Coding_Lab.zip)
-  - Complete assignments on the API/Scraping/SQL and Python Data Analysis pages
+  - Complete assignments on the Databases and Python Data Analysis pages
 
 ### Step 4 - Mathematics Refresher
 
