@@ -45,11 +45,8 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 #### Calculus
 - **Review:** [Calculus Summary](https://s3.amazonaws.com/ds-foundations/resources/Calculus_Summary.pdf) by Professor Glenn Ledder at UNL.
-- **Learn:** [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. *(Optional)* Multivariable Differentiation.
+- **Learn:** [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. *(Optional)* [Multivariable Differentiation](https://www.khanacademy.org/math/calculus-home/multivariable-calculus).
 - **Practice:** [SymPy Workbook](https://s3.amazonaws.com/ds-foundations/exercises/calculus_exercises.ipynb)
-
-
-
 
 ---
 
