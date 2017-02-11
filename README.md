@@ -6,7 +6,7 @@
 
 The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
 
-**This repository is constantly a work in progress. Items will be edited, updated and deleted on a monthly basis.**
+**This repository is constantly a work in progress.**
 
 ### Step 1 - Getting Started
   - [Local Setup](content/0-local-setup.md)
