@@ -8,6 +8,8 @@ The Foundations program is a curated list of books, tutorials and other resource
 
 **This repository is constantly a work in progress.**
 
+## For the latest version, please see [the wiki](https://github.com/k2datascience/ds-foundations/wiki).
+
 ### Step 1 - Getting Started
   - [Local Setup](content/0-local-setup.md)
   - [Development Environment](content/0-environment.md)
