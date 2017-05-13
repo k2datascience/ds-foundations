@@ -4,9 +4,7 @@
 
 ## <a name="section-a"></a>Overview
 
-The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete.
-
-**This repository is constantly a work in progress.**
+The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete. **This repository is constantly a work in progress.**
 
 ## For the latest version, please see [the wiki](https://github.com/k2datascience/ds-foundations/wiki).
 
