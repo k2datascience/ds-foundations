@@ -4,7 +4,7 @@
 
 ## <a name="section-a"></a>Overview
 
-The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete. **This repository is constantly a work in progress.**
+The Foundations program is a curated list of books, tutorials and other resources with assignments and projects. These materials are designed to ensure you are ready to succeed in our data science bootcamp. Depending on your background, the program can take anywhere from 30-100+ hours to complete. **The contents of this repository may change as the field evolves.**
 
 ### Step 1 - Getting Started
   - [Anaconda Distribution of Python](https://www.continuum.io/downloads)
@@ -33,9 +33,3 @@ The Foundations program is a curated list of books, tutorials and other resource
 #### Calculus
 - **Review:** [Calculus Summary](https://s3.amazonaws.com/ds-foundations/resources/Calculus_Summary.pdf) by Professor Glenn Ledder at UNL.
 - **Learn:** [Calculus](https://www.khanacademy.org/math/calculus-home) from Khan Academy. *(Optional)* [Multivariable Differentiation](https://www.khanacademy.org/math/calculus-home/multivariable-calculus).
-
----
-
-## <a name="section-c"></a>Questions
-
-If anything is unclear or you get stuck, [please reach out immediately](<mailto:hello@k2datascience.com>). The program was created by data scientists and machine learning engineers. We have a biased view of which concepts should be learned in which order. We have tried to put ourselves in your shoes, but there is always room for improvement!
